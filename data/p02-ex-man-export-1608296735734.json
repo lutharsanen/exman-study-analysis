@@ -1,0 +1,497 @@
+{
+    "focusSessions": [
+        {
+            "id": "279e8657-e394-48da-bb02-f84df29e4791",
+            "startTime": 1606917589079,
+            "endTime": 1606918681049,
+            "originalEndTime": 1606919989079,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1606917727376,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1606917743715,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1606917804252,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1606918533140,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1606918539033,
+                            "title": 1779322219
+                        }
+                    ],
+                    "interactions": [
+                        [
+                            1606917796097,
+                            1606917801704
+                        ]
+                    ]
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1606917788393,
+                    1606917801694
+                ]
+            ],
+            "goals": [
+                -1488659112
+            ],
+            "completedGoals": [
+                -1488659112
+            ],
+            "rating": "5",
+            "comments": "bad",
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "10d918a2-d3ce-4b3e-bfbe-54017c083cf6",
+            "startTime": 1606919111300,
+            "endTime": 1606919135050,
+            "originalEndTime": 1606921511300,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "1d08cf45-1db2-408e-ae17-1a05a596bd8e",
+            "startTime": 1606925478064,
+            "endTime": 1606930416625,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                2024488657
+            ],
+            "completedGoals": [
+                2024488657
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "12752a16-3ea1-4231-bc6e-2a270bc5737a",
+            "startTime": 1607040300710,
+            "endTime": 1607102303376,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607101435851,
+                            "title": -1488436485
+                        },
+                        {
+                            "timestamp": 1607101444539,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102019540,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102026115,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102037468,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102046410,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102054034,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102088706,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102140134,
+                            "title": 1779322219
+                        },
+                        {
+                            "timestamp": 1607102153504,
+                            "title": 1779322219
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "86d49a4a-16ef-45e4-9904-ada9e4328c5b",
+            "startTime": 1607102324308,
+            "endTime": 1607110065066,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "4478e596-0265-4835-8f66-9d77c3c57651",
+            "startTime": 1607531617319,
+            "endTime": 1607533731834,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "ce47d79d-76bb-4df5-a68b-0f642a9f4e9c",
+            "startTime": 1607606237206,
+            "endTime": 1607606357250,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "69508485-fd1e-47a3-9bed-c3c37ba9b440",
+            "startTime": 1607611733508,
+            "endTime": 1607624244743,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        }
+    ],
+    "outOfFocusMessages": {},
+    "outOfFocusInteractions": {
+        "d31fa6fb-f8b1-4443-bbff-ecade48a4f2b": {
+            "name": "teams",
+            "interactions": [
+                [
+                    1606917452888,
+                    1606917589218
+                ],
+                [
+                    1606918872280,
+                    1606918909794
+                ],
+                [
+                    1606918942986,
+                    1606919012802
+                ],
+                [
+                    1606919799353,
+                    1606925478156
+                ],
+                [
+                    1606932034485,
+                    1606932159767
+                ],
+                [
+                    1606932402263,
+                    1607034067514
+                ],
+                [
+                    1607531600854,
+                    1607531606979
+                ],
+                [
+                    1607531612540,
+                    1607531617386
+                ]
+            ]
+        }
+    },
+    "outOfFocusActiveWindows": [],
+    "appUsage": [
+        [
+            1606917413067
+        ],
+        [
+            1607100851813
+        ],
+        [
+            1607531549762
+        ],
+        [
+            1607624229041
+        ],
+        [
+            1608296699678
+        ]
+    ],
+    "settings": {
+        "autoReply": "Currently, I am working in focus mode. I will answer you earliest in ${time}.",
+        "shortFocusDuration": 15,
+        "mediumFocusDuration": 25,
+        "longFocusDuration": 40,
+        "focusGoalDuration": 120,
+        "teamsCallFocusAbility": true,
+        "minimumGoalsPerDay": 5,
+        "appVersion": "exman",
+        "distractingApps": [
+            "netflix",
+            "teams",
+            "slack",
+            "skype",
+            "youtube",
+            "facebook",
+            "twitter",
+            "pinterest",
+            "tumblr",
+            "instagram",
+            "flickr",
+            "meetup",
+            "ask.fm",
+            "hulu",
+            "imgur",
+            "vimeo",
+            "ted",
+            "blogger",
+            "imdb",
+            "deviantart",
+            "break",
+            "collegehumor",
+            "funnyordie",
+            "liveleak",
+            "twitch.tv",
+            "theonion",
+            "cracked",
+            "tmz",
+            "vice",
+            "rottentomatoes",
+            "ebay",
+            "craigslist",
+            "etsy",
+            "ricardo",
+            "tutti",
+            "bbc",
+            "forbes",
+            "economist",
+            "nbcnews",
+            "cnn",
+            "foxnews",
+            "msnbc",
+            "huffingtonpost",
+            "businessinsider",
+            "buzzfeed",
+            "yahoo",
+            "nytimes",
+            "bloomberg",
+            "usatoday",
+            "washingtonpost",
+            "theguardian",
+            "npr.org",
+            "wsj",
+            "time",
+            "news.google",
+            "cnet",
+            "cnbc",
+            "reddit",
+            "nzz",
+            "zalando",
+            "whatsapp",
+            "microsoft teams",
+            "telegram",
+            "20min",
+            "blick",
+            "amazon",
+            "aboutyou",
+            "asos",
+            "na-kd",
+            "tiktok",
+            "blockchainpresence"
+        ],
+        "distractingWebsites": [
+            "youtube.com",
+            "netflix.com",
+            "facebook.com",
+            "twitter.com",
+            "pinterest.com",
+            "tumblr.com",
+            "instagram.com",
+            "flickr.com",
+            "meetup.com",
+            "ask.fm",
+            "hulu.com",
+            "imgur.com",
+            "vimeo.com",
+            "ted.com",
+            "blogger.com",
+            "imdb.com",
+            "deviantart.com",
+            "break.com",
+            "collegehumor.com",
+            "funnyordie.com",
+            "liveleak.com",
+            "twitch.tv",
+            "theonion.com",
+            "cracked.com",
+            "tmz.com",
+            "vice.com",
+            "rottentomatoes.com",
+            "ebay.com",
+            "craigslist.org",
+            "etsy.com",
+            "ricardo.ch",
+            "tutti.ch",
+            "bbc.com",
+            "forbes.com",
+            "economist.com",
+            "nbcnews.com",
+            "cnn.com",
+            "foxnews.com",
+            "msnbc.com",
+            "huffingtonpost.com",
+            "businessinsider.com",
+            "buzzfeed.com",
+            "yahoo.com",
+            "nytimes.com",
+            "bloomberg.com",
+            "usatoday.com",
+            "washingtonpost.com",
+            "theguardian.com",
+            "npr.org",
+            "wsj.com",
+            "time.com",
+            "news.google.com",
+            "cnet.com",
+            "cnbc.com",
+            "reddit.com",
+            "nzz.ch",
+            "zalando.ch",
+            "web.whatsapp.com",
+            "teams.microsoft.com",
+            "slack.com",
+            "telegram.com",
+            "20min.ch",
+            "blick.ch",
+            "amazon.com",
+            "amazon.de",
+            "aboutyou.ch",
+            "asos.com",
+            "na-kd.com",
+            "tiktok.com",
+            "skype.com"
+        ]
+    }
+}

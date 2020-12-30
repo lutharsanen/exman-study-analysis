@@ -1,0 +1,3713 @@
+{
+    "focusSessions": [
+        {
+            "id": "4281e778-4839-45ea-83ac-bf3c7c715e9c",
+            "startTime": 1606978058103,
+            "endTime": 1606979830738,
+            "originalEndTime": 1606979858103,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "1b2db8d7-e174-4698-a162-93b7322f6c4c",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1252899322
+            ],
+            "completedGoals": [
+                1252899322
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "ca83c851-a676-417b-b97f-5b4961d18e61",
+            "startTime": 1606979844972,
+            "endTime": 1606982544972,
+            "originalEndTime": 1606982544972,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "1b2db8d7-e174-4698-a162-93b7322f6c4c",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1089169260
+            ],
+            "completedGoals": [
+                1089169260
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "5605c4cc-e5c1-4832-93bf-2988d178813d",
+            "startTime": 1606982620153,
+            "endTime": 1606985897307,
+            "originalEndTime": 1606985320153,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "1b2db8d7-e174-4698-a162-93b7322f6c4c",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1606982635124,
+                            "title": 160631278
+                        }
+                    ],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                102234512
+            ],
+            "completedGoals": [
+                102234512
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "a8faae8d-eff7-4eaa-b39f-f340c73b9a2d",
+            "startTime": 1606987720484,
+            "endTime": 1606993720484,
+            "originalEndTime": 1606990420484,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "1b2db8d7-e174-4698-a162-93b7322f6c4c",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1445406609,
+                1445406610
+            ],
+            "completedGoals": [
+                1445406609,
+                1445406610
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "fccfd0e8-3597-45a5-a369-bdde5c6d79f6",
+            "startTime": 1607006505046,
+            "endTime": 1607016105046,
+            "originalEndTime": 1607009205046,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 11,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1125697531,
+                -1413340919,
+                -315626277
+            ],
+            "completedGoals": [
+                -1125697531,
+                -1413340919,
+                -315626277
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "7538a056-7d66-4619-b2c3-7f7ba9c712a2",
+            "startTime": 1607070652179,
+            "endTime": 1607070658082,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "b0d415c9-77d9-446a-95a9-ce2c356c6545",
+            "startTime": 1607070664125,
+            "endTime": 1607072848817,
+            "originalEndTime": 1607073364125,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1067191353
+            ],
+            "completedGoals": [
+                -1067191353
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "c765cb3c-3e6d-4892-a5bf-c161797673ac",
+            "startTime": 1607075514550,
+            "endTime": 1607077314550,
+            "originalEndTime": 1607077314550,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -2034617997
+            ],
+            "completedGoals": [
+                -2034617997
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "748af868-9737-454c-b4b5-8eb3721963b9",
+            "startTime": 1607083493472,
+            "endTime": 1607086793472,
+            "originalEndTime": 1607086193472,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1646362224
+            ],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "465ec733-00b5-481e-ba6b-0ca88fd5eacb",
+            "startTime": 1607091162263,
+            "endTime": 1607094462263,
+            "originalEndTime": 1607093862263,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1532467935,
+                -501899804,
+                1349892841
+            ],
+            "completedGoals": [
+                1532467935
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "a99256ae-1430-44f9-8cd4-57441fbf35ef",
+            "startTime": 1607094481287,
+            "endTime": 1607098276714,
+            "originalEndTime": 1607097181287,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1949291258,
+                -874071545
+            ],
+            "completedGoals": [
+                1949291258,
+                -874071545
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "624c4076-324c-4544-987e-da6ef551d2d6",
+            "startTime": 1607098286672,
+            "endTime": 1607100686672,
+            "originalEndTime": 1607100086672,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                741289307,
+                830972619
+            ],
+            "completedGoals": [
+                741289307,
+                830972619
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "c55bfc7b-9341-46e9-a058-6032efffa1d7",
+            "startTime": 1607324327557,
+            "endTime": 1607329727557,
+            "originalEndTime": 1607327927557,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1607325925880,
+                            1607325946135
+                        ]
+                    ]
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 7,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1607325924305,
+                    1607325946082
+                ]
+            ],
+            "goals": [
+                1171992562,
+                -411753958
+            ],
+            "completedGoals": [
+                1171992562
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "db94bbe5-00b5-4b82-9452-34f87df7e3e7",
+            "startTime": 1607335831815,
+            "endTime": 1607338531815,
+            "originalEndTime": 1607338531815,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -411753958
+            ],
+            "completedGoals": [
+                -411753958
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "a7d7bfad-db08-4123-bb10-4c26786c0bf9",
+            "startTime": 1607345745236,
+            "endTime": 1607347545236,
+            "originalEndTime": 1607347545236,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -2062218521
+            ],
+            "completedGoals": [
+                -2062218521
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "b6d3263a-a076-4d33-89d8-580fe8e76e16",
+            "startTime": 1607349566605,
+            "endTime": 1607352408711,
+            "originalEndTime": 1607352266605,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1146328903,
+                -1238115587
+            ],
+            "completedGoals": [
+                1146328903,
+                -1238115587
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "1e928a10-5388-4188-b183-b1b56a4a7325",
+            "startTime": 1607415850498,
+            "endTime": 1607422624610,
+            "originalEndTime": 1607417650498,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -54150662,
+                1815982394,
+                42032218
+            ],
+            "completedGoals": [
+                -54150662,
+                1815982394,
+                42032218
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "961b5f80-34ff-4a56-bbaf-e2c60340b425",
+            "startTime": 1607428311639,
+            "endTime": 1607429355396,
+            "originalEndTime": 1607430111639,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 4,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 7,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                2113879517
+            ],
+            "completedGoals": [
+                2113879517
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "103c1a67-d784-4c49-ade7-f5f424c6af5b",
+            "startTime": 1607429398275,
+            "endTime": 1607436154139,
+            "originalEndTime": 1607432098275,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 4,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -263643121,
+                -1519881019,
+                1444117219
+            ],
+            "completedGoals": [
+                -263643121
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "1168e1d2-37bf-4fe5-982a-96eb3bb6c50a",
+            "startTime": 1607455174826,
+            "endTime": 1607458474826,
+            "originalEndTime": 1607456974826,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 4,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 9,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1171992562
+            ],
+            "completedGoals": [],
+            "rating": "3",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "2b290cd0-86e1-4c35-aaff-9530dc5feb3c",
+            "startTime": 1607499824888,
+            "endTime": 1607505435226,
+            "originalEndTime": 1607503424888,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -997832008
+            ],
+            "completedGoals": [
+                -997832008
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "88e43292-4d38-4deb-99de-4c75dcd7200d",
+            "startTime": 1607505754595,
+            "endTime": 1607509954595,
+            "originalEndTime": 1607508454595,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 6,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1292649017,
+                2113879517
+            ],
+            "completedGoals": [
+                2113879517
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "f68b86a0-9827-4b0f-83fa-c77aff1f2506",
+            "startTime": 1607509972795,
+            "endTime": 1607513678348,
+            "originalEndTime": 1607512672795,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 7,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1004257019
+            ],
+            "completedGoals": [
+                -1004257019
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "dbb05e5a-9eec-4b26-aaa2-cd22b9706e2a",
+            "startTime": 1607513860236,
+            "endTime": 1607517641489,
+            "originalEndTime": 1607516560236,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1161544003,
+                -1728801973,
+                429541514,
+                431194561
+            ],
+            "completedGoals": [
+                -1161544003,
+                -1728801973,
+                429541514,
+                431194561
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "6befcde3-e0ff-4280-abbe-f1313b90a0e1",
+            "startTime": 1607521188498,
+            "endTime": 1607530188498,
+            "originalEndTime": 1607524788498,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1956858021
+            ],
+            "completedGoals": [
+                -1956858021
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "69a92a9a-4b06-4ac6-9d0f-60ae43703449",
+            "startTime": 1607586959382,
+            "endTime": 1607594159382,
+            "originalEndTime": 1607590559382,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 7,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1956858021
+            ],
+            "completedGoals": [
+                -1956858021
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "6032f743-71cc-49de-ac3a-7b9f4e465433",
+            "startTime": 1607597077523,
+            "endTime": 1607598415495,
+            "originalEndTime": 1607598877523,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                2113879517
+            ],
+            "completedGoals": [
+                2113879517
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "45603f2f-a5b9-4444-91c3-29db2e5da561",
+            "startTime": 1607605349254,
+            "endTime": 1607611649254,
+            "originalEndTime": 1607608049254,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 6,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -438505321,
+                -263643121,
+                -1281908314
+            ],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "f3d5fe5c-f2d7-4a83-8519-0c79c25324ca",
+            "startTime": 1607619019790,
+            "endTime": 1607620819790,
+            "originalEndTime": 1607620819790,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 6,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1322382733
+            ],
+            "completedGoals": [
+                1322382733
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "fa8ea2d4-14e8-4d9c-8325-9348336451ab",
+            "startTime": 1607672793884,
+            "endTime": 1607678176823,
+            "originalEndTime": 1607676393884,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 4,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607673277130,
+                            "title": -1644501871
+                        },
+                        {
+                            "timestamp": 1607673449701,
+                            "title": -1644501871
+                        },
+                        {
+                            "timestamp": 1607673466176,
+                            "title": -1644501871
+                        },
+                        {
+                            "timestamp": 1607675815496,
+                            "title": 1027596161
+                        },
+                        {
+                            "timestamp": 1607676123773,
+                            "title": 1027596161
+                        },
+                        {
+                            "timestamp": 1607676142590,
+                            "title": 1027596161
+                        }
+                    ],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1004257019,
+                771384243
+            ],
+            "completedGoals": [
+                -1004257019
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "c9d13ba6-02ba-47b6-b5d8-9f288e25c032",
+            "startTime": 1607678487709,
+            "endTime": 1607681787709,
+            "originalEndTime": 1607681187709,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 4,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1956858021
+            ],
+            "completedGoals": [
+                -1956858021
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "2767378f-77f4-45c3-8d0b-4ec712834e6b",
+            "startTime": 1607941773052,
+            "endTime": 1607944473052,
+            "originalEndTime": 1607944473052,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 8,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                976003997,
+                170031332
+            ],
+            "completedGoals": [
+                976003997,
+                170031332
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "97bb3f98-7269-464f-a6fe-a4d86ca3b321",
+            "startTime": 1607953256987,
+            "endTime": 1607957456987,
+            "originalEndTime": 1607956856987,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "d1d792dd-c46c-4666-b5b4-22fb992583ab",
+                    "name": "whatsapp",
+                    "unreadCount": 7,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                764154908
+            ],
+            "completedGoals": [
+                764154908
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "7bfd444d-3220-4bb0-bce3-bbdc5f106044",
+            "startTime": 1607962406089,
+            "endTime": 1607965106089,
+            "originalEndTime": 1607965106089,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1774229316,
+                1774229317
+            ],
+            "completedGoals": [
+                1774229316,
+                1774229317
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "7ef99707-5b3d-4a11-ac52-fe6f4b780837",
+            "startTime": 1608013122630,
+            "endTime": 1608018522630,
+            "originalEndTime": 1608016722630,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1763337222,
+                -1763337221,
+                -1763337220,
+                -1763337219
+            ],
+            "completedGoals": [
+                -1763337222,
+                -1763337221,
+                -1763337220,
+                -1763337219
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "b807d41e-f5be-4a2f-b1c5-be537902c135",
+            "startTime": 1608026409390,
+            "endTime": 1608033609390,
+            "originalEndTime": 1608030009390,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1763337218,
+                -1763337217,
+                -1763337216,
+                -1763337215
+            ],
+            "completedGoals": [
+                -1763337218,
+                -1763337217,
+                -1763337216,
+                -1763337215
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "6ecd9b00-c904-472c-b36c-b898f9937571",
+            "startTime": 1608038613758,
+            "endTime": 1608040055318,
+            "originalEndTime": 1608041313758,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1171105638,
+                -1763337191,
+                -1763337190,
+                -1763337189
+            ],
+            "completedGoals": [
+                1171105638,
+                -1763337191,
+                -1763337189,
+                -1763337190
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "d3070f6c-932a-4dcb-ade6-7fb607ed512a",
+            "startTime": 1608047484737,
+            "endTime": 1608051857023,
+            "originalEndTime": 1608050184737,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1744775855,
+                2113879517,
+                -626108157
+            ],
+            "completedGoals": [
+                -1744775855,
+                -626108157
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "e1dbdd92-4d6e-4c8a-ab11-c6ac45f41a69",
+            "startTime": 1608051862848,
+            "endTime": 1608053662848,
+            "originalEndTime": 1608053662848,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1839487527,
+                104371
+            ],
+            "completedGoals": [
+                1839487527,
+                104371
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "1675b608-ffa1-439e-badc-17f7981ccc16",
+            "startTime": 1608102847975,
+            "endTime": 1608108971808,
+            "originalEndTime": 1608106447975,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "b87452be-4296-43cc-90c1-dc1ffece762a",
+                    "name": "whatsapp",
+                    "unreadCount": 6,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1608103885248,
+                            "title": 1395992124
+                        },
+                        {
+                            "timestamp": 1608103896586,
+                            "title": 1395992124
+                        },
+                        {
+                            "timestamp": 1608108276781,
+                            "title": 160631278
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1224407058,
+                -1422518132,
+                -1422518154,
+                837550114
+            ],
+            "completedGoals": [
+                1224407058,
+                -1422518132,
+                -1422518154
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "f49cbf76-8152-4d31-b96e-cd5be02ae3ac",
+            "startTime": 1608109112255,
+            "endTime": 1608116312255,
+            "originalEndTime": 1608112712255,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "b87452be-4296-43cc-90c1-dc1ffece762a",
+                    "name": "whatsapp",
+                    "unreadCount": 6,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1608109139248,
+                            "title": 160631278
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -380217672,
+                659022758,
+                1067699085
+            ],
+            "completedGoals": [
+                1067699085
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "abb6bafd-a44e-42ec-9bd4-3f1693c338dc",
+            "startTime": 1608116527090,
+            "endTime": 1608120109493,
+            "originalEndTime": 1608120127090,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                976904444,
+                659022758
+            ],
+            "completedGoals": [
+                976904444
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "9a5e7783-43cb-4faf-96cf-d484e8c2d244",
+            "startTime": 1608125412373,
+            "endTime": 1608130812373,
+            "originalEndTime": 1608129012373,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1857640538,
+                441970665,
+                -1071389019
+            ],
+            "completedGoals": [
+                -1857640538
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "40c4c53d-b611-4bbb-aad0-bf337623be36",
+            "startTime": 1608133919646,
+            "endTime": 1608138119646,
+            "originalEndTime": 1608137519646,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                659022758,
+                -1297951984,
+                98526144,
+                -1813027899,
+                -1813027899
+            ],
+            "completedGoals": [
+                659022758,
+                -1297951984,
+                98526144
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "c1c35f24-a35c-4d06-b137-be1a19e2c4f7",
+            "startTime": 1608199147586,
+            "endTime": 1608202747586,
+            "originalEndTime": 1608202747586,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1608202267843,
+                            1608202747853
+                        ]
+                    ]
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1608202265238,
+                    1608202747618
+                ]
+            ],
+            "goals": [
+                -678479461,
+                -1990051808,
+                -1321390216,
+                -1857640538
+            ],
+            "completedGoals": [
+                -678479461,
+                -1990051808
+            ],
+            "rating": "3",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "4e129b65-a349-4d58-ba25-ea66ba8d8d64",
+            "startTime": 1608206503965,
+            "endTime": 1608214603965,
+            "originalEndTime": 1608210103965,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                530115961,
+                -1857640538,
+                659022758,
+                -678479461
+            ],
+            "completedGoals": [
+                530115961,
+                -1857640538,
+                659022758,
+                -678479461
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "19e04b43-73dd-4f4a-bdc4-6fd53d6e61ff",
+            "startTime": 1608215500187,
+            "endTime": 1608217300187,
+            "originalEndTime": 1608217300187,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -847398795
+            ],
+            "completedGoals": [
+                -847398795
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "4a827ecd-de14-4425-b797-91e96b0bf380",
+            "startTime": 1608219669236,
+            "endTime": 1608224469236,
+            "originalEndTime": 1608223269236,
+            "services": [
+                {
+                    "id": "c3447b6e-9e4d-4515-bee8-72204c8b7516",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f9a0196-a1a0-4846-b333-23bf48005853",
+                    "name": "slack",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "4e884e8d-bc74-491c-b639-a4318e793959",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "c7dac6b9-5619-4121-9ff0-0970c22f958d",
+                    "name": "outlook365",
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1274442605
+            ],
+            "completedGoals": [
+                -1274442605
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        }
+    ],
+    "outOfFocusMessages": {
+        "d1d792dd-c46c-4666-b5b4-22fb992583ab": {
+            "name": "whatsapp",
+            "messages": [
+                {
+                    "timestamp": 1607016578286,
+                    "title": 1947821169
+                },
+                {
+                    "timestamp": 1607070019836,
+                    "title": 1395992124
+                },
+                {
+                    "timestamp": 1607070020623,
+                    "title": 1395992124
+                },
+                {
+                    "timestamp": 1607070023369,
+                    "title": 1395992124
+                }
+            ]
+        },
+        "5f9a0196-a1a0-4846-b333-23bf48005853": {
+            "name": "slack",
+            "messages": [
+                {
+                    "timestamp": 1607678278800,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607678331794,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607678380488,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607678402791,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607698714164,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607698761687,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607698869459,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699219190,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699546403,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699577576,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699588573,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699624044,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699634487,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699725059,
+                    "title": 1027596161
+                },
+                {
+                    "timestamp": 1607699755218,
+                    "title": 1027596161
+                }
+            ]
+        }
+    },
+    "outOfFocusInteractions": {
+        "c3447b6e-9e4d-4515-bee8-72204c8b7516": {
+            "name": "teams",
+            "interactions": [
+                [
+                    1606977581170,
+                    1606977585161
+                ],
+                [
+                    1606977621969,
+                    1606977714546
+                ],
+                [
+                    1607006239705,
+                    1607006241317
+                ],
+                [
+                    1607065811686,
+                    1607065859692
+                ],
+                [
+                    1607070648648,
+                    1607070652611
+                ],
+                [
+                    1607072859476,
+                    1607072866598
+                ],
+                [
+                    1607072869280,
+                    1607072894536
+                ],
+                [
+                    1607091148392,
+                    1607091157658
+                ],
+                [
+                    1607499164093,
+                    1607499492543
+                ],
+                [
+                    1607499509362,
+                    1607499510373
+                ],
+                [
+                    1607499805411,
+                    1607499807656
+                ],
+                [
+                    1607505587647,
+                    1607505754941
+                ],
+                [
+                    1607513783636,
+                    1607513860652
+                ],
+                [
+                    1607517648822,
+                    1607517666254
+                ],
+                [
+                    1607521160637,
+                    1607521188951
+                ],
+                [
+                    1607586919821,
+                    1607586931769
+                ],
+                [
+                    1607586955320,
+                    1607586960152
+                ],
+                [
+                    1607605037831,
+                    1607605320385
+                ],
+                [
+                    1607672777777,
+                    1607672781260
+                ],
+                [
+                    1607962403295,
+                    1607962407059
+                ],
+                [
+                    1608013008616,
+                    1608013017532
+                ],
+                [
+                    1608116503367,
+                    1608116504526
+                ],
+                [
+                    1608185437841,
+                    1608185443271
+                ],
+                [
+                    1608185470920,
+                    1608185489722
+                ],
+                [
+                    1608227117156
+                ]
+            ]
+        },
+        "5f9a0196-a1a0-4846-b333-23bf48005853": {
+            "name": "slack",
+            "interactions": [
+                [
+                    1606977716745,
+                    1606977765298
+                ],
+                [
+                    1607006276127,
+                    1607006288015
+                ],
+                [
+                    1607070647526,
+                    1607070648656
+                ],
+                [
+                    1607072866589,
+                    1607072869286
+                ],
+                [
+                    1607091144606,
+                    1607091148433
+                ],
+                [
+                    1607499510366,
+                    1607499781633
+                ],
+                [
+                    1607499802098,
+                    1607499805427
+                ],
+                [
+                    1607517666241,
+                    1607517671377
+                ],
+                [
+                    1607586731355,
+                    1607586746663
+                ],
+                [
+                    1607586931585,
+                    1607586935366
+                ],
+                [
+                    1607605320373,
+                    1607605327912
+                ],
+                [
+                    1607672671121,
+                    1607672773390
+                ],
+                [
+                    1607672776508,
+                    1607672777787
+                ],
+                [
+                    1607962398694,
+                    1607962403306
+                ],
+                [
+                    1608012994080,
+                    1608013008631
+                ],
+                [
+                    1608116504516,
+                    1608116507252
+                ],
+                [
+                    1608185443261,
+                    1608185449390
+                ]
+            ]
+        },
+        "1b2db8d7-e174-4698-a162-93b7322f6c4c": {
+            "name": "whatsapp",
+            "interactions": [
+                [
+                    1606977766947,
+                    1606977793528
+                ],
+                [
+                    1606982588580,
+                    1606982620649
+                ],
+                [
+                    1607006305197,
+                    1607006477552
+                ]
+            ]
+        },
+        "4e884e8d-bc74-491c-b639-a4318e793959": {
+            "name": "outlook",
+            "interactions": [
+                [
+                    1606977795608,
+                    1606977835791
+                ],
+                [
+                    1607006241307,
+                    1607006260230
+                ],
+                [
+                    1607006304101,
+                    1607006305207
+                ],
+                [
+                    1607070601370,
+                    1607070647534
+                ],
+                [
+                    1607091142983,
+                    1607091144636
+                ],
+                [
+                    1607499783922
+                ],
+                [
+                    1607499792797,
+                    1607499792806,
+                    1607499799468
+                ],
+                [
+                    1607499800547,
+                    1607499802110
+                ],
+                [
+                    1607499808194,
+                    1607499825163
+                ],
+                [
+                    1607586746648,
+                    1607586750167
+                ],
+                [
+                    1607586935355,
+                    1607586936695
+                ],
+                [
+                    1607605327905,
+                    1607605330310
+                ],
+                [
+                    1607672663561,
+                    1607672671128
+                ],
+                [
+                    1607672773380,
+                    1607672776521
+                ],
+                [
+                    1607672781253,
+                    1607672794123
+                ],
+                [
+                    1607962395187,
+                    1607962398710
+                ],
+                [
+                    1608012988705,
+                    1608012994094
+                ],
+                [
+                    1608116507245,
+                    1608116510358
+                ],
+                [
+                    1608120514542,
+                    1608120743960
+                ],
+                [
+                    1608185449375,
+                    1608185457026
+                ],
+                [
+                    1608185458771
+                ],
+                [
+                    1608185462674,
+                    1608185462685,
+                    1608185470935
+                ]
+            ]
+        },
+        "c7dac6b9-5619-4121-9ff0-0970c22f958d": {
+            "name": "outlook365",
+            "interactions": [
+                [
+                    1606977838089,
+                    1606977958486
+                ],
+                [
+                    1606982573821,
+                    1606982588586
+                ],
+                [
+                    1607006260220,
+                    1607006267655
+                ],
+                [
+                    1607006303118,
+                    1607006304108
+                ],
+                [
+                    1607065859671,
+                    1607070497856
+                ],
+                [
+                    1607070527429,
+                    1607070593903
+                ],
+                [
+                    1607070595987,
+                    1607070597473
+                ],
+                [
+                    1607070600387,
+                    1607070601389
+                ],
+                [
+                    1607072894527,
+                    1607075514986
+                ],
+                [
+                    1607091140700,
+                    1607091143038
+                ],
+                [
+                    1607343983293
+                ],
+                [
+                    1607344992469,
+                    1607344992476
+                ],
+                [
+                    1607499781626,
+                    1607499783934
+                ],
+                [
+                    1607499799447,
+                    1607499800632
+                ],
+                [
+                    1607499807644,
+                    1607499808206
+                ],
+                [
+                    1607586750035
+                ],
+                [
+                    1607586936642,
+                    1607586937861
+                ],
+                [
+                    1607605330303,
+                    1607605349746
+                ],
+                [
+                    1607672662280,
+                    1607672663570
+                ],
+                [
+                    1608012966616,
+                    1608012988712
+                ],
+                [
+                    1608116510350,
+                    1608116512107
+                ],
+                [
+                    1608120512056,
+                    1608120514552
+                ],
+                [
+                    1608120743950,
+                    1608125413121
+                ],
+                [
+                    1608185457014,
+                    1608185458784
+                ]
+            ]
+        },
+        "d1d792dd-c46c-4666-b5b4-22fb992583ab": {
+            "name": "whatsapp",
+            "interactions": [
+                [
+                    1607006479202,
+                    1607006505812
+                ],
+                [
+                    1607070497839,
+                    1607070527453
+                ],
+                [
+                    1607070597465,
+                    1607070600398
+                ],
+                [
+                    1607091125007,
+                    1607091140767
+                ],
+                [
+                    1607091157589,
+                    1607091163859
+                ],
+                [
+                    1607422653803,
+                    1607428312237
+                ],
+                [
+                    1607436166157,
+                    1607455175241
+                ],
+                [
+                    1607505441849,
+                    1607505587654
+                ],
+                [
+                    1607517671370,
+                    1607521160644
+                ],
+                [
+                    1607586937639,
+                    1607586955335
+                ],
+                [
+                    1607598420911,
+                    1607605037839
+                ],
+                [
+                    1607617817223,
+                    1607619020185
+                ],
+                [
+                    1607628188724,
+                    1607628211723
+                ],
+                [
+                    1607698615395,
+                    1607699882944
+                ],
+                [
+                    1607703208321
+                ],
+                [
+                    1607962383911,
+                    1607962395208
+                ]
+            ]
+        },
+        "b87452be-4296-43cc-90c1-dc1ffece762a": {
+            "name": "whatsapp",
+            "interactions": [
+                [
+                    1608102461318,
+                    1608102848359
+                ],
+                [
+                    1608109019384,
+                    1608109112709
+                ],
+                [
+                    1608116512098,
+                    1608120109683
+                ]
+            ]
+        }
+    },
+    "outOfFocusActiveWindows": [],
+    "appUsage": [
+        [
+            1606977415904
+        ],
+        [
+            1607065769680
+        ],
+        [
+            1607091109448
+        ],
+        [
+            1607156736996
+        ],
+        [
+            1607187804513
+        ],
+        [
+            1607323783376
+        ],
+        [
+            1607496661714
+        ],
+        [
+            1607586910723
+        ],
+        [
+            1607617759992
+        ],
+        [
+            1607627295814
+        ],
+        [
+            1607671208640
+        ],
+        [
+            1607682268764
+        ],
+        [
+            1607697677155
+        ],
+        [
+            1607762081414
+        ],
+        [
+            1607845852819
+        ],
+        [
+            1607927180111
+        ],
+        [
+            1607937107119
+        ],
+        [
+            1607975467286
+        ],
+        [
+            1608012839943
+        ],
+        [
+            1608034023696
+        ],
+        [
+            1608185100553
+        ],
+        [
+            1608230424598
+        ],
+        [
+            1608275517674
+        ],
+        [
+            1608296311370
+        ]
+    ],
+    "settings": {
+        "autoReply": "Thanks for your message. Currently, I am working in focus mode. I will answer you earliest in ${time}.",
+        "shortFocusDuration": 30,
+        "mediumFocusDuration": 45,
+        "longFocusDuration": 60,
+        "focusGoalDuration": 120,
+        "teamsCallFocusAbility": false,
+        "minimumGoalsPerDay": 5,
+        "appVersion": "exman",
+        "distractingApps": [
+            "netflix",
+            "teams",
+            "slack",
+            "skype",
+            "youtube",
+            "facebook",
+            "twitter",
+            "pinterest",
+            "tumblr",
+            "instagram",
+            "flickr",
+            "meetup",
+            "ask.fm",
+            "hulu",
+            "imgur",
+            "vimeo",
+            "ted",
+            "blogger",
+            "imdb",
+            "deviantart",
+            "break",
+            "collegehumor",
+            "funnyordie",
+            "liveleak",
+            "twitch.tv",
+            "theonion",
+            "cracked",
+            "tmz",
+            "vice",
+            "rottentomatoes",
+            "ebay",
+            "craigslist",
+            "etsy",
+            "ricardo",
+            "tutti",
+            "bbc",
+            "forbes",
+            "economist",
+            "nbcnews",
+            "cnn",
+            "foxnews",
+            "msnbc",
+            "huffingtonpost",
+            "businessinsider",
+            "buzzfeed",
+            "yahoo",
+            "nytimes",
+            "bloomberg",
+            "usatoday",
+            "washingtonpost",
+            "theguardian",
+            "npr.org",
+            "wsj",
+            "time",
+            "news.google",
+            "cnet",
+            "cnbc",
+            "reddit",
+            "nzz",
+            "zalando",
+            "whatsapp",
+            "microsoft teams",
+            "telegram",
+            "20min",
+            "blick",
+            "amazon",
+            "aboutyou",
+            "asos",
+            "na-kd",
+            "tiktok"
+        ],
+        "distractingWebsites": [
+            "youtube.com",
+            "netflix.com",
+            "facebook.com",
+            "twitter.com",
+            "pinterest.com",
+            "tumblr.com",
+            "instagram.com",
+            "flickr.com",
+            "meetup.com",
+            "ask.fm",
+            "hulu.com",
+            "imgur.com",
+            "vimeo.com",
+            "ted.com",
+            "blogger.com",
+            "imdb.com",
+            "deviantart.com",
+            "break.com",
+            "collegehumor.com",
+            "funnyordie.com",
+            "liveleak.com",
+            "twitch.tv",
+            "theonion.com",
+            "cracked.com",
+            "tmz.com",
+            "vice.com",
+            "rottentomatoes.com",
+            "ebay.com",
+            "craigslist.org",
+            "etsy.com",
+            "ricardo.ch",
+            "tutti.ch",
+            "bbc.com",
+            "forbes.com",
+            "economist.com",
+            "nbcnews.com",
+            "cnn.com",
+            "foxnews.com",
+            "msnbc.com",
+            "huffingtonpost.com",
+            "businessinsider.com",
+            "buzzfeed.com",
+            "yahoo.com",
+            "nytimes.com",
+            "bloomberg.com",
+            "usatoday.com",
+            "washingtonpost.com",
+            "theguardian.com",
+            "npr.org",
+            "wsj.com",
+            "time.com",
+            "news.google.com",
+            "cnet.com",
+            "cnbc.com",
+            "reddit.com",
+            "nzz.ch",
+            "zalando.ch",
+            "web.whatsapp.com",
+            "teams.microsoft.com",
+            "slack.com",
+            "telegram.com",
+            "20min.ch",
+            "blick.ch",
+            "amazon.com",
+            "amazon.de",
+            "aboutyou.ch",
+            "asos.com",
+            "na-kd.com",
+            "tiktok.com",
+            "skype.com"
+        ]
+    }
+}

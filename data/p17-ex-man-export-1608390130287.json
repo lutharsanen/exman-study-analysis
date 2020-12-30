@@ -1,0 +1,2050 @@
+{
+    "focusSessions": [
+        {
+            "id": "bc981696-1c19-4c3f-8ccc-c9e39fa03e30",
+            "startTime": 1607187252667,
+            "endTime": 1607187397788,
+            "originalEndTime": 1607189652667,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "9642d2ac-0f87-455e-9146-173d8a42ea07",
+                    "name": "canvas",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1143706015,
+                -1673774383,
+                -172557650,
+                -1351367718
+            ],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "c4b0771f-3ff2-4711-9aad-929e5f4c69d0",
+            "startTime": 1607187405916,
+            "endTime": 1607190605098,
+            "originalEndTime": 1607189805916,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607188644044,
+                            "title": 0
+                        }
+                    ],
+                    "interactions": [
+                        [
+                            1607188579470,
+                            1607188660602
+                        ],
+                        [
+                            1607188991308,
+                            1607189270109
+                        ],
+                        [
+                            1607189284137,
+                            1607189331630
+                        ],
+                        [
+                            1607189424327,
+                            1607189432873
+                        ]
+                    ]
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1607188735717,
+                            1607188898710
+                        ],
+                        [
+                            1607190291187,
+                            1607190372720
+                        ]
+                    ]
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1343,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607187499986,
+                            "title": -1242042622
+                        }
+                    ],
+                    "interactions": []
+                },
+                {
+                    "id": "9642d2ac-0f87-455e-9146-173d8a42ea07",
+                    "name": "canvas",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1607188577987,
+                    1607188660561
+                ],
+                [
+                    1607188734802,
+                    1607188898655
+                ],
+                [
+                    1607188990108,
+                    1607189270063
+                ],
+                [
+                    1607189282989,
+                    1607189331561
+                ],
+                [
+                    1607189422740,
+                    1607189432729
+                ],
+                [
+                    1607189433306,
+                    1607189434894
+                ],
+                [
+                    1607190290100,
+                    1607190372659
+                ]
+            ],
+            "goals": [
+                -603138582,
+                1381990997,
+                -639477797,
+                -1436908609
+            ],
+            "completedGoals": [
+                -603138582,
+                -1436908609,
+                1381990997,
+                -639477797
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "6c6fa9a7-315c-4075-8f7c-8363fc5de7bb",
+            "startTime": 1607287863582,
+            "endTime": 1607292663582,
+            "originalEndTime": 1607292063582,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1607287947292,
+                            1607290449840
+                        ],
+                        [
+                            1607290579786,
+                            1607290988499
+                        ]
+                    ]
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1356,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1607290988498,
+                            1607291056566
+                        ]
+                    ]
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607291342287,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607292603913,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1607287933461,
+                    1607290449776
+                ],
+                [
+                    1607290577119,
+                    1607291056529
+                ]
+            ],
+            "goals": [
+                -1293970413,
+                -438933,
+                218531805,
+                -2055687152,
+                1845417214,
+                1601896496
+            ],
+            "completedGoals": [
+                -1293970413,
+                -438933
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "e210b4af-1cc1-4f51-97ae-5a27179382c2",
+            "startTime": 1607306308084,
+            "endTime": 1607309608084,
+            "originalEndTime": 1607307808084,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1359,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607308409182,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607308847831,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                218531805,
+                -2055687152
+            ],
+            "completedGoals": [
+                218531805
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "24b945f7-5136-4b3d-87e8-f48d80490ce9",
+            "startTime": 1607353604156,
+            "endTime": 1607363504156,
+            "originalEndTime": 1607360804156,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1607360004085,
+                            1607360069902
+                        ],
+                        [
+                            1607361407558,
+                            1607361549529
+                        ]
+                    ]
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1374,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607357080871,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": [
+                        [
+                            1607357098202,
+                            1607357112600
+                        ]
+                    ]
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1607357096360,
+                    1607357112519
+                ],
+                [
+                    1607360002655,
+                    1607360069821
+                ],
+                [
+                    1607361406364,
+                    1607361549465
+                ]
+            ],
+            "goals": [
+                1624950064,
+                -869085040,
+                1968624074
+            ],
+            "completedGoals": [
+                -869085040,
+                1624950064,
+                1968624074
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "8de361ee-9801-4282-ba06-82d90edd4994",
+            "startTime": 1607485560031,
+            "endTime": 1607487360031,
+            "originalEndTime": 1607487360031,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1411,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                89318234
+            ],
+            "completedGoals": [
+                89318234
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "f19776a6-e5e4-4250-8f9f-347012fca735",
+            "startTime": 1607530131543,
+            "endTime": 1607533600652,
+            "originalEndTime": 1607533731543,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1428,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1172136070,
+                287006378
+            ],
+            "completedGoals": [
+                -1172136070
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "435981ca-a369-4bfc-8a29-259aaccc4d58",
+            "startTime": 1607648392841,
+            "endTime": 1607655592841,
+            "originalEndTime": 1607651992841,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1478,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607648978927,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607649665795,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607649829093,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607650019655,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607651608987,
+                            "title": -1909864916
+                        },
+                        {
+                            "timestamp": 1607651753795,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1318859006,
+                1511476882,
+                1968624074
+            ],
+            "completedGoals": [
+                1968624074,
+                1318859006
+            ],
+            "rating": "6",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "255d9c15-aaf9-48c1-a145-1e5aa4f6a8f3",
+            "startTime": 1607707266913,
+            "endTime": 1607710866913,
+            "originalEndTime": 1607710866913,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1499,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607707835322,
+                            "title": -1242042622
+                        },
+                        {
+                            "timestamp": 1607707963207,
+                            "title": -1242042622
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1511476882
+            ],
+            "completedGoals": [],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "d6cf4f5c-893a-4cff-9081-5dd18c0c0c27",
+            "startTime": 1607714625431,
+            "endTime": 1607718167129,
+            "originalEndTime": 1607718225431,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1500,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607718139743,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                105008833,
+                111728
+            ],
+            "completedGoals": [
+                105008833
+            ],
+            "rating": "5",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "pomodoro",
+            "calendarSubject": null
+        },
+        {
+            "id": "b50ca09d-5219-4e8e-9d18-7b06b3a4f1cb",
+            "startTime": 1607879602620,
+            "endTime": 1607886802620,
+            "originalEndTime": 1607886802620,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1527,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -1049542473,
+                700035950,
+                1593858073
+            ],
+            "completedGoals": [
+                700035950,
+                -1049542473
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "e2568137-e9ad-4926-a6b4-a5f0356a1919",
+            "startTime": 1607889836415,
+            "endTime": 1607893436415,
+            "originalEndTime": 1607893436415,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1529,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "59f393e2-73d7-4336-bedb-94b0231ff9d7",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                -2055687152,
+                1187121797
+            ],
+            "completedGoals": [
+                -2055687152,
+                1187121797
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "571eb507-7bef-4612-98e5-122202665e7c",
+            "startTime": 1607973379928,
+            "endTime": 1607980579928,
+            "originalEndTime": 1607980579928,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 3,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1556,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "7a4658ff-dba9-4d65-9078-f4eef6d69db0",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1607979369258,
+                            "title": -1242042622
+                        },
+                        {
+                            "timestamp": 1607979369263,
+                            "title": -1242042622
+                        },
+                        {
+                            "timestamp": 1607979369266,
+                            "title": -1242042622
+                        },
+                        {
+                            "timestamp": 1607979369268,
+                            "title": -1242042622
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1500971806,
+                1593858073
+            ],
+            "completedGoals": [
+                1500971806
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "c1a0898d-f8a5-46c8-87fd-32b038a96d5e",
+            "startTime": 1607992206073,
+            "endTime": 1607994006073,
+            "originalEndTime": 1607994006073,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1558,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "7a4658ff-dba9-4d65-9078-f4eef6d69db0",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1593858073
+            ],
+            "completedGoals": [
+                1593858073
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "e235bd8f-4ba9-4c45-a3e5-57f8e6627864",
+            "startTime": 1608075512726,
+            "endTime": 1608080912726,
+            "originalEndTime": 1608079112726,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 5,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1585,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "7a4658ff-dba9-4d65-9078-f4eef6d69db0",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [
+                1384226545,
+                1367868740
+            ],
+            "completedGoals": [
+                1367868740
+            ],
+            "rating": "4",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "99cb53b0-40e8-4970-8ca5-f628d3dca1c9",
+            "startTime": 1608129271622,
+            "endTime": 1608135728195,
+            "originalEndTime": 1608136471622,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1608134538515,
+                            1608134570761
+                        ],
+                        [
+                            1608134713814,
+                            1608134717064
+                        ],
+                        [
+                            1608134717613,
+                            1608134726819
+                        ],
+                        [
+                            1608134727568,
+                            1608134730536
+                        ]
+                    ]
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 2,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": [
+                        [
+                            1608131447780,
+                            1608131492880
+                        ],
+                        [
+                            1608134717063,
+                            1608134717614
+                        ]
+                    ]
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1597,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "7a4658ff-dba9-4d65-9078-f4eef6d69db0",
+                    "name": "whatsapp",
+                    "unreadCount": 1,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1608130742687,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": [
+                        [
+                            1608134726817,
+                            1608134727570
+                        ]
+                    ]
+                }
+            ],
+            "brokenFocus": [
+                [
+                    1608131446779,
+                    1608131492856
+                ],
+                [
+                    1608134537614,
+                    1608134570736
+                ],
+                [
+                    1608134712622,
+                    1608134730513
+                ]
+            ],
+            "goals": [
+                700035950,
+                1367868740
+            ],
+            "completedGoals": [
+                1367868740,
+                700035950
+            ],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        },
+        {
+            "id": "e278c588-5a6a-49ea-a554-af71fe0f2dda",
+            "startTime": 1608335251093,
+            "endTime": 1608338851093,
+            "originalEndTime": 1608338851093,
+            "services": [
+                {
+                    "id": "7f82fb32-64ea-4713-a36b-72afb6d754f6",
+                    "name": "teams",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "5f40a0a3-bb72-4861-8e54-59f957aebc7d",
+                    "name": "outlook365",
+                    "unreadCount": 5,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "02e69198-5561-4a7a-a2c1-6f2f62d34f1b",
+                    "name": "gmail",
+                    "unreadCount": 1676,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "7a4658ff-dba9-4d65-9078-f4eef6d69db0",
+                    "name": "whatsapp",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [
+                        {
+                            "timestamp": 1608338127663,
+                            "title": -1909864916
+                        }
+                    ],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": "7",
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        }
+    ],
+    "outOfFocusMessages": {
+        "59f393e2-73d7-4336-bedb-94b0231ff9d7": {
+            "name": "whatsapp",
+            "messages": [
+                {
+                    "timestamp": 1607193048910,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1607194154812,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1607194385557,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1607284676162,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1607286762805,
+                    "title": -1105311154
+                },
+                {
+                    "timestamp": 1607293478129,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607374237505,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607375841880,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607475609363,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607647640347,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607656402265,
+                    "title": 1688985920
+                },
+                {
+                    "timestamp": 1607701109352,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607701237360,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607702449432,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607702622536,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607702777685,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607703425565,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1607712383478,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607712842170,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607718371503,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1607961796122,
+                    "title": -1909864916
+                }
+            ]
+        },
+        "7a4658ff-dba9-4d65-9078-f4eef6d69db0": {
+            "name": "whatsapp",
+            "messages": [
+                {
+                    "timestamp": 1607981615064,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1608000278829,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1608000458347,
+                    "title": -1242042622
+                },
+                {
+                    "timestamp": 1608044391409,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1608068593489,
+                    "title": -1630926288
+                },
+                {
+                    "timestamp": 1608151527636,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1608152052901,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1608152196510,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1608152467116,
+                    "title": -1909864916
+                },
+                {
+                    "timestamp": 1608339110986,
+                    "title": -1909864916
+                }
+            ]
+        }
+    },
+    "outOfFocusInteractions": {
+        "7f82fb32-64ea-4713-a36b-72afb6d754f6": {
+            "name": "teams",
+            "interactions": [
+                [
+                    1607183122353,
+                    1607183208412
+                ],
+                [
+                    1607183271881,
+                    1607183272970
+                ],
+                [
+                    1607183276089,
+                    1607183276639
+                ],
+                [
+                    1607190753600,
+                    1607190774246
+                ],
+                [
+                    1607190787337,
+                    1607190828415
+                ],
+                [
+                    1607193139914,
+                    1607194162767
+                ],
+                [
+                    1607266994433,
+                    1607282934704
+                ],
+                [
+                    1607287728327,
+                    1607287735173
+                ],
+                [
+                    1607287738116,
+                    1607287739628
+                ],
+                [
+                    1607287752515,
+                    1607287756555
+                ],
+                [
+                    1607375268098,
+                    1607375278426
+                ],
+                [
+                    1607474774025,
+                    1607485560219
+                ],
+                [
+                    1607533730109,
+                    1607533779175
+                ],
+                [
+                    1607712858752,
+                    1607714625616
+                ],
+                [
+                    1607718207781,
+                    1607718246099
+                ],
+                [
+                    1607961810449,
+                    1607961811900
+                ],
+                [
+                    1607961860638,
+                    1607961861504
+                ],
+                [
+                    1607973340732,
+                    1607973344892
+                ],
+                [
+                    1607973367575,
+                    1607973369471
+                ],
+                [
+                    1607973373684,
+                    1607973380115
+                ],
+                [
+                    1607991748724,
+                    1607991752661
+                ],
+                [
+                    1607991753318
+                ],
+                [
+                    1607992120603,
+                    1607992120605
+                ],
+                [
+                    1608075445932,
+                    1608075446712
+                ],
+                [
+                    1608127666106,
+                    1608127666799
+                ],
+                [
+                    1608129264374,
+                    1608129266867
+                ],
+                [
+                    1608135739640,
+                    1608135814330
+                ],
+                [
+                    1608142496379,
+                    1608142501144
+                ],
+                [
+                    1608335232440,
+                    1608335233214
+                ]
+            ]
+        },
+        "e813aea8-6969-4ada-bd20-9cef3fc1bc84": {
+            "name": "Canvas",
+            "interactions": [
+                [
+                    1607183227411,
+                    1607183271882
+                ],
+                [
+                    1607183272969,
+                    1607183276090
+                ],
+                [
+                    1607183276638,
+                    1607183312458
+                ]
+            ]
+        },
+        "8128bb8c-9ef8-4b14-8163-546412c305ea": {
+            "name": "Canvas",
+            "interactions": [
+                [
+                    1607183319360,
+                    1607184147019
+                ],
+                [
+                    1607186728328,
+                    1607186732679
+                ],
+                [
+                    1607186916174,
+                    1607186932878
+                ]
+            ]
+        },
+        "5f40a0a3-bb72-4861-8e54-59f957aebc7d": {
+            "name": "outlook365",
+            "interactions": [
+                [
+                    1607186737105,
+                    1607186779665
+                ],
+                [
+                    1607187142448,
+                    1607187207688
+                ],
+                [
+                    1607190728943,
+                    1607190753601
+                ],
+                [
+                    1607190774245,
+                    1607190787338
+                ],
+                [
+                    1607190828414,
+                    1607190889148
+                ],
+                [
+                    1607190891680,
+                    1607193135859
+                ],
+                [
+                    1607282934695
+                ],
+                [
+                    1607287735172,
+                    1607287738118
+                ],
+                [
+                    1607287751515,
+                    1607287752516
+                ],
+                [
+                    1607287756554,
+                    1607287763004
+                ],
+                [
+                    1607304854911,
+                    1607306308475
+                ],
+                [
+                    1607353550484,
+                    1607353568005
+                ],
+                [
+                    1607365665357,
+                    1607374310690
+                ],
+                [
+                    1607375278425,
+                    1607375297560
+                ],
+                [
+                    1607376477932,
+                    1607378319586
+                ],
+                [
+                    1607474768120,
+                    1607474774036
+                ],
+                [
+                    1607529445161,
+                    1607529705103
+                ],
+                [
+                    1607533611763,
+                    1607533730110
+                ],
+                [
+                    1607533779173,
+                    1607533781099
+                ],
+                [
+                    1607534077229
+                ],
+                [
+                    1607655608585,
+                    1607655615094
+                ],
+                [
+                    1607655627804,
+                    1607656104941
+                ],
+                [
+                    1607656695876
+                ],
+                [
+                    1607707252239,
+                    1607707264475
+                ],
+                [
+                    1607710889738,
+                    1607712849756
+                ],
+                [
+                    1607712857875,
+                    1607712858754
+                ],
+                [
+                    1607718246097
+                ],
+                [
+                    1607718403464,
+                    1607718403466
+                ],
+                [
+                    1607961809644,
+                    1607961810453
+                ],
+                [
+                    1607961861502,
+                    1607961862084
+                ],
+                [
+                    1607973338037,
+                    1607973338607
+                ],
+                [
+                    1607973364709,
+                    1607973365446
+                ],
+                [
+                    1607981313360,
+                    1607981321735
+                ],
+                [
+                    1607981946431,
+                    1607991748729
+                ],
+                [
+                    1607991752660,
+                    1607991753319
+                ],
+                [
+                    1607994868551,
+                    1608045269853
+                ],
+                [
+                    1608068511643,
+                    1608075079541
+                ],
+                [
+                    1608075442313,
+                    1608075444635
+                ],
+                [
+                    1608075446711,
+                    1608075513027
+                ],
+                [
+                    1608127665021,
+                    1608127666109
+                ],
+                [
+                    1608129261017,
+                    1608129264376
+                ],
+                [
+                    1608135814328,
+                    1608135815049
+                ],
+                [
+                    1608142510078,
+                    1608152473329
+                ],
+                [
+                    1608338861077,
+                    1608338871510
+                ],
+                [
+                    1608339003352,
+                    1608390116643
+                ]
+            ]
+        },
+        "02e69198-5561-4a7a-a2c1-6f2f62d34f1b": {
+            "name": "gmail",
+            "interactions": [
+                [
+                    1607186781281,
+                    1607186870156
+                ],
+                [
+                    1607186986477,
+                    1607187142448
+                ],
+                [
+                    1607187207687,
+                    1607187228922
+                ],
+                [
+                    1607190699762,
+                    1607190728943
+                ],
+                [
+                    1607287739627,
+                    1607287751516
+                ],
+                [
+                    1607287763003,
+                    1607287763765
+                ],
+                [
+                    1607292703007,
+                    1607304524529
+                ],
+                [
+                    1607353470910,
+                    1607353550486
+                ],
+                [
+                    1607474766093,
+                    1607474768122
+                ],
+                [
+                    1607529705102,
+                    1607530131728
+                ],
+                [
+                    1607533781097,
+                    1607534077230
+                ],
+                [
+                    1607655615093,
+                    1607655619316
+                ],
+                [
+                    1607710883165,
+                    1607710889740
+                ],
+                [
+                    1607961806753,
+                    1607961809646
+                ],
+                [
+                    1607961842443,
+                    1607961843102
+                ],
+                [
+                    1607961862082,
+                    1607961865491
+                ],
+                [
+                    1607973338605,
+                    1607973340734
+                ],
+                [
+                    1607973344890,
+                    1607973364711
+                ],
+                [
+                    1607981321731,
+                    1607981946432
+                ],
+                [
+                    1608127666797,
+                    1608127667317
+                ],
+                [
+                    1608127668411,
+                    1608129261019
+                ],
+                [
+                    1608135815046,
+                    1608142496381
+                ],
+                [
+                    1608142502205,
+                    1608142510080
+                ],
+                [
+                    1608335233212,
+                    1608335234302
+                ],
+                [
+                    1608335242732,
+                    1608335251300
+                ],
+                [
+                    1608338871508,
+                    1608339003354
+                ]
+            ]
+        },
+        "59f393e2-73d7-4336-bedb-94b0231ff9d7": {
+            "name": "whatsapp",
+            "interactions": [
+                [
+                    1607186872001,
+                    1607186904916
+                ],
+                [
+                    1607190687748,
+                    1607190699763
+                ],
+                [
+                    1607193135857,
+                    1607193139914
+                ],
+                [
+                    1607194162766,
+                    1607266994435
+                ],
+                [
+                    1607287763764,
+                    1607287774541
+                ],
+                [
+                    1607292691231,
+                    1607292703008
+                ],
+                [
+                    1607374310688,
+                    1607375268099
+                ],
+                [
+                    1607375297559,
+                    1607376477934
+                ],
+                [
+                    1607474760531,
+                    1607474766094
+                ],
+                [
+                    1607655619315,
+                    1607655627805
+                ],
+                [
+                    1607656104940,
+                    1607656695878
+                ],
+                [
+                    1607710881124,
+                    1607710883166
+                ],
+                [
+                    1607712849754,
+                    1607712857877
+                ],
+                [
+                    1607718183082,
+                    1607718207784
+                ],
+                [
+                    1607961802976,
+                    1607961806754
+                ],
+                [
+                    1607961811898
+                ],
+                [
+                    1607961824026,
+                    1607961824027,
+                    1607961842445
+                ],
+                [
+                    1607961843100,
+                    1607961854819
+                ]
+            ]
+        },
+        "9642d2ac-0f87-455e-9146-173d8a42ea07": {
+            "name": "canvas",
+            "interactions": [
+                [
+                    1607186945299,
+                    1607186986477
+                ],
+                [
+                    1607187228922,
+                    1607187252861
+                ]
+            ]
+        },
+        "7a4658ff-dba9-4d65-9078-f4eef6d69db0": {
+            "name": "whatsapp",
+            "interactions": [
+                [
+                    1607973297946,
+                    1607973338039
+                ],
+                [
+                    1607973365445,
+                    1607973367577
+                ],
+                [
+                    1607973369470,
+                    1607973373687
+                ],
+                [
+                    1607981298399,
+                    1607981313362
+                ],
+                [
+                    1608075444633,
+                    1608075445934
+                ],
+                [
+                    1608127667315,
+                    1608127668413
+                ],
+                [
+                    1608129266865,
+                    1608129271774
+                ],
+                [
+                    1608135735195,
+                    1608135739641
+                ],
+                [
+                    1608142501142,
+                    1608142502207
+                ],
+                [
+                    1608335234299,
+                    1608335242734
+                ],
+                [
+                    1608338858763,
+                    1608338861079
+                ]
+            ]
+        }
+    },
+    "outOfFocusActiveWindows": [],
+    "appUsage": [
+        [
+            1607183091707
+        ],
+        [
+            1607287719553
+        ],
+        [
+            1607307881706
+        ],
+        [
+            1607361123074,
+            1607378319585
+        ],
+        [
+            1607474734819
+        ],
+        [
+            1607647273761
+        ],
+        [
+            1607707191638
+        ],
+        [
+            1607879547877
+        ],
+        [
+            1607961711406,
+            1607961914272
+        ],
+        [
+            1607973290016
+        ],
+        [
+            1607992142871,
+            1608045269847
+        ],
+        [
+            1608068468848,
+            1608075079525
+        ],
+        [
+            1608075396342
+        ],
+        [
+            1608132639377,
+            1608152473326
+        ],
+        [
+            1608335220307
+        ]
+    ],
+    "settings": {
+        "autoReply": "Currently, I am working in focus mode with the ExMan app. I will answer you earliest in ${time}.",
+        "shortFocusDuration": 30,
+        "mediumFocusDuration": 60,
+        "longFocusDuration": 120,
+        "focusGoalDuration": 120,
+        "teamsCallFocusAbility": true,
+        "minimumGoalsPerDay": 2,
+        "appVersion": "exman",
+        "distractingApps": [
+            "netflix",
+            "teams",
+            "slack",
+            "skype",
+            "youtube",
+            "facebook",
+            "twitter",
+            "pinterest",
+            "tumblr",
+            "instagram",
+            "flickr",
+            "meetup",
+            "ask.fm",
+            "hulu",
+            "imgur",
+            "vimeo",
+            "ted",
+            "blogger",
+            "imdb",
+            "deviantart",
+            "break",
+            "collegehumor",
+            "funnyordie",
+            "liveleak",
+            "twitch.tv",
+            "theonion",
+            "cracked",
+            "tmz",
+            "vice",
+            "rottentomatoes",
+            "ebay",
+            "craigslist",
+            "etsy",
+            "ricardo",
+            "tutti",
+            "bbc",
+            "forbes",
+            "economist",
+            "nbcnews",
+            "cnn",
+            "foxnews",
+            "msnbc",
+            "huffingtonpost",
+            "businessinsider",
+            "buzzfeed",
+            "yahoo",
+            "nytimes",
+            "bloomberg",
+            "usatoday",
+            "washingtonpost",
+            "theguardian",
+            "npr.org",
+            "wsj",
+            "news.google",
+            "cnet",
+            "cnbc",
+            "reddit",
+            "nzz",
+            "zalando",
+            "whatsapp",
+            "microsoft teams",
+            "telegram",
+            "20min",
+            "blick",
+            "amazon",
+            "aboutyou",
+            "asos",
+            "na-kd",
+            "tiktok"
+        ]
+    }
+}

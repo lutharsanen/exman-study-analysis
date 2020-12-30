@@ -1,0 +1,6505 @@
+{
+    "focusSessions": [
+        {
+            "id": "a975d401-6d2c-4770-a8d7-a1991ac35b47",
+            "startTime": 1607386797829,
+            "endTime": 1607386804436,
+            "originalEndTime": null,
+            "services": [
+                {
+                    "id": "fe191ebf-1df6-4090-a360-b12a2d081a4c",
+                    "name": "outlook",
+                    "unreadCount": 0,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                },
+                {
+                    "id": "8b3205a2-084d-40bf-a6f9-674b4f26bed8",
+                    "name": "gmail",
+                    "unreadCount": 10,
+                    "autoReplied": [],
+                    "messages": [],
+                    "interactions": []
+                }
+            ],
+            "brokenFocus": [],
+            "goals": [],
+            "completedGoals": [],
+            "rating": null,
+            "comments": null,
+            "scheduled": false,
+            "activeWindows": [],
+            "appVersion": "exman",
+            "calendarSubject": null
+        }
+    ],
+    "outOfFocusMessages": {},
+    "outOfFocusInteractions": {
+        "fe191ebf-1df6-4090-a360-b12a2d081a4c": {
+            "name": "outlook",
+            "interactions": [
+                [
+                    1607386373189,
+                    1607386437867
+                ]
+            ]
+        },
+        "8b3205a2-084d-40bf-a6f9-674b4f26bed8": {
+            "name": "gmail",
+            "interactions": [
+                [
+                    1607386439639,
+                    1607386600502
+                ]
+            ]
+        },
+        "2eae0a56-7065-4342-afb3-5a332b0becd8": {
+            "name": "teams",
+            "interactions": [
+                [
+                    1607386613049,
+                    1607386631842
+                ],
+                [
+                    1607386643685,
+                    1607386804490
+                ]
+            ]
+        }
+    },
+    "outOfFocusActiveWindows": [
+        {
+            "timestamp": 1608353163735,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353167157,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353171395,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353173452,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353179626,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353181666,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353183731,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353197960,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353204052,
+            "name": "explorer.exe",
+            "title": -712194517,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353206071,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353250701,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353252715,
+            "name": "chrome.exe",
+            "title": -326334292,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353254739,
+            "name": "chrome.exe",
+            "title": 1804435630,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353262837,
+            "name": "chrome.exe",
+            "title": -694117958,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353266984,
+            "name": "chrome.exe",
+            "title": 1715410678,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353269061,
+            "name": "chrome.exe",
+            "title": 505153312,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608353283246,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353289350,
+            "name": "chrome.exe",
+            "title": 1859047126,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353293426,
+            "name": "chrome.exe",
+            "title": -531696235,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353303598,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353305620,
+            "name": "chrome.exe",
+            "title": 1883610947,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353330105,
+            "name": "chrome.exe",
+            "title": -531696235,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353332174,
+            "name": "chrome.exe",
+            "title": 505153312,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608353350600,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608353356737,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405294146,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405308590,
+            "name": "chrome.exe",
+            "title": -1004274078,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405359242,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405584723,
+            "name": "chrome.exe",
+            "title": -269631159,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405590988,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405595102,
+            "name": "chrome.exe",
+            "title": 910206274,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405599150,
+            "name": "chrome.exe",
+            "title": -22887330,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405601202,
+            "name": "chrome.exe",
+            "title": 578831910,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405603271,
+            "name": "chrome.exe",
+            "title": -22887330,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405611545,
+            "name": "chrome.exe",
+            "title": -142498188,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405659027,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608405675546,
+            "name": "chrome.exe",
+            "title": -142498188,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405679649,
+            "name": "chrome.exe",
+            "title": -211624982,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608405702312,
+            "name": "chrome.exe",
+            "title": -269631159,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405722794,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405728941,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405733019,
+            "name": "chrome.exe",
+            "title": 2079116881,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405735069,
+            "name": "chrome.exe",
+            "title": -947973970,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405769827,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405773891,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405775926,
+            "name": "WINWORD.EXE",
+            "title": -1363350747,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405777960,
+            "name": "WINWORD.EXE",
+            "title": 2702122,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405790236,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405806686,
+            "name": "WINWORD.EXE",
+            "title": -341710514,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405812883,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405819157,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405821184,
+            "name": "chrome.exe",
+            "title": -947973970,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405823188,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405849836,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405851903,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405853964,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405856030,
+            "name": "WINWORD.EXE",
+            "title": -1856516161,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405860071,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405903172,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405905219,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405907258,
+            "name": "chrome.exe",
+            "title": -947973970,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405909300,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405919481,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405937017,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405955328,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405985986,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405988035,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405990080,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608405994164,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406028746,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406069616,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406116762,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406124991,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406129076,
+            "name": "AcroRd32.exe",
+            "title": 1505759093,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406147467,
+            "name": "WINWORD.EXE",
+            "title": 935479698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406149540,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406151662,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406153744,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406155769,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406157819,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406165993,
+            "name": "chrome.exe",
+            "title": 1914627273,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406172203,
+            "name": "chrome.exe",
+            "title": -717616845,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406178425,
+            "name": "chrome.exe",
+            "title": 1609836832,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406182516,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406217305,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406221384,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406225465,
+            "name": "chrome.exe",
+            "title": 1682400911,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406227505,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406258112,
+            "name": "chrome.exe",
+            "title": -1330213898,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406260156,
+            "name": "chrome.exe",
+            "title": -2081616463,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406264249,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406385514,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406389638,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406397830,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406401961,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406465784,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406469948,
+            "name": "chrome.exe",
+            "title": 427708475,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406471980,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406478150,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406490411,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406492492,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406539673,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406543781,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406547906,
+            "name": "chrome.exe",
+            "title": -947973970,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406549948,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406568387,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406570452,
+            "name": "chrome.exe",
+            "title": -38814164,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406574546,
+            "name": "chrome.exe",
+            "title": -1173268801,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406596974,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406601048,
+            "name": "WINWORD.EXE",
+            "title": 193469595,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608406603081,
+            "name": "WINWORD.EXE",
+            "title": 886359707,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406623660,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406629831,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406631916,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406644273,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406652470,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406662760,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406695752,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406699939,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406708184,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406720533,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406724585,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406726648,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406732872,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406759719,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406763866,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406767966,
+            "name": "chrome.exe",
+            "title": 750778962,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406776176,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406782348,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406786467,
+            "name": "WINWORD.EXE",
+            "title": -884014027,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406790541,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406792621,
+            "name": "AcroRd32.exe",
+            "title": 1636510484,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406798765,
+            "name": "WINWORD.EXE",
+            "title": -28418319,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406800766,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406806876,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406808918,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406817125,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406821210,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406920109,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406924242,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406928340,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406930397,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406959261,
+            "name": "chrome.exe",
+            "title": 1280067460,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608406971574,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406973589,
+            "name": "chrome.exe",
+            "title": -269631159,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406975650,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608406979785,
+            "name": "chrome.exe",
+            "title": 1280067460,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608406983934,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407119493,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407123650,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407133991,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407152425,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407156583,
+            "name": "WINWORD.EXE",
+            "title": 2702122,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407158651,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407166898,
+            "name": "WINWORD.EXE",
+            "title": -341710514,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407175169,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407183417,
+            "name": "WINWORD.EXE",
+            "title": -341710514,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407187548,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407204087,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407267647,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407273875,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407288287,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407335626,
+            "name": "WINWORD.EXE",
+            "title": -1856516161,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407337675,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407349979,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407352041,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407354114,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407358256,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407360295,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407438276,
+            "name": "WINWORD.EXE",
+            "title": -341710514,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407442372,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407452634,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407456743,
+            "name": "WINWORD.EXE",
+            "title": 1789670828,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407462918,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407473274,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407475302,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407485592,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407489751,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407493888,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407495933,
+            "name": "AcroRd32.exe",
+            "title": 2081998765,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407590400,
+            "name": "WINWORD.EXE",
+            "title": 1310662602,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407592489,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407606862,
+            "name": "chrome.exe",
+            "title": 1060694108,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407610980,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407615111,
+            "name": "chrome.exe",
+            "title": 1060694108,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407617149,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407639854,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407643972,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407718152,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407726437,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407732578,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407736694,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407759276,
+            "name": "chrome.exe",
+            "title": -1949543813,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407761350,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407765491,
+            "name": "chrome.exe",
+            "title": -1490786425,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608407781848,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407824914,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407829071,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407835274,
+            "name": "explorer.exe",
+            "title": -1433058717,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407837346,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407839380,
+            "name": "chrome.exe",
+            "title": -1854677965,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407859863,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407868036,
+            "name": "explorer.exe",
+            "title": -1433058717,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407872084,
+            "name": "AcroRd32.exe",
+            "title": 2081998765,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407878153,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407951788,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407974082,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608407998594,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408000685,
+            "name": "explorer.exe",
+            "title": -1433058717,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408002765,
+            "name": "AcroRd32.exe",
+            "title": 1636510484,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408006822,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408078761,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408090907,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408119500,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408121554,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408131907,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408133950,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408158645,
+            "name": "explorer.exe",
+            "title": -1433058717,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408162725,
+            "name": "AcroRd32.exe",
+            "title": 1505759093,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408166867,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408240807,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408257081,
+            "name": "chrome.exe",
+            "title": -1528998305,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408259119,
+            "name": "chrome.exe",
+            "title": -269631159,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408267245,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408273373,
+            "name": "chrome.exe",
+            "title": -1920615574,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608408283652,
+            "name": "chrome.exe",
+            "title": -211624982,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608408304128,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408306171,
+            "name": "chrome.exe",
+            "title": -947973970,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408308220,
+            "name": "chrome.exe",
+            "title": -1206061258,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408312311,
+            "name": "explorer.exe",
+            "title": -1433058717,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408314345,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408324543,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408334800,
+            "name": "explorer.exe",
+            "title": -936434099,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408336819,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408351155,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408357303,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408363485,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408427092,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408435259,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408441372,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408447578,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408449613,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408455753,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408459840,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408506972,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408513097,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408515149,
+            "name": "chrome.exe",
+            "title": -211624982,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608408517203,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408527448,
+            "name": "chrome.exe",
+            "title": -38814164,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408531535,
+            "name": "chrome.exe",
+            "title": -716887171,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408545885,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408549969,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408611128,
+            "name": "chrome.exe",
+            "title": -716887171,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408613155,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408615206,
+            "name": "chrome.exe",
+            "title": -875643016,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408617226,
+            "name": "chrome.exe",
+            "title": -953797872,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408623324,
+            "name": "chrome.exe",
+            "title": -1646901170,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408631438,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408655872,
+            "name": "WINWORD.EXE",
+            "title": -1363350747,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408657883,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408661935,
+            "name": "chrome.exe",
+            "title": 938836624,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408676212,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408678275,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408686415,
+            "name": "chrome.exe",
+            "title": 938836624,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408688506,
+            "name": "chrome.exe",
+            "title": -1062519904,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408731294,
+            "name": "chrome.exe",
+            "title": -716887171,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408735338,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408737372,
+            "name": "WINWORD.EXE",
+            "title": -1013777027,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408739400,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408741455,
+            "name": "chrome.exe",
+            "title": -1039789952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408743514,
+            "name": "chrome.exe",
+            "title": 465622673,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408745572,
+            "name": "chrome.exe",
+            "title": -211624982,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608408753736,
+            "name": "WINWORD.EXE",
+            "title": -1013777027,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408776221,
+            "name": "WINWORD.EXE",
+            "title": -1870218590,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408815106,
+            "name": "chrome.exe",
+            "title": -211624982,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608408821243,
+            "name": "WINWORD.EXE",
+            "title": -1870218590,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408829428,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408835543,
+            "name": "WINWORD.EXE",
+            "title": -1870218590,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408837570,
+            "name": "AcroRd32.exe",
+            "title": -1722786683,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408843702,
+            "name": "WINWORD.EXE",
+            "title": -1870218590,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408845760,
+            "name": "chrome.exe",
+            "title": -211624982,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608408868236,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408870267,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408886596,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408888635,
+            "name": "chrome.exe",
+            "title": -786516039,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408890674,
+            "name": "chrome.exe",
+            "title": -851620421,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408896827,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408904996,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608408911157,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409011417,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409150672,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409160993,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409163036,
+            "name": "ShellExperienceHost.exe",
+            "title": -1689059805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409185435,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409222112,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409260922,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409262975,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409273240,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409279392,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409338767,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409381859,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409455592,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409480131,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409484236,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409504584,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409506626,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409531059,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409559531,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409561587,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409630926,
+            "name": "chrome.exe",
+            "title": -400979471,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409673802,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409679896,
+            "name": "chrome.exe",
+            "title": -400979471,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409686001,
+            "name": "chrome.exe",
+            "title": 370314297,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409698316,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409720946,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409739322,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409745415,
+            "name": "chrome.exe",
+            "title": 370314297,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409755517,
+            "name": "chrome.exe",
+            "title": -400979471,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409757541,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608409759599,
+            "name": "chrome.exe",
+            "title": 370314297,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409773834,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608409781915,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409822548,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608409867275,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409873418,
+            "name": "chrome.exe",
+            "title": -38814164,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409877483,
+            "name": "chrome.exe",
+            "title": 1860971100,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409893766,
+            "name": "WINWORD.EXE",
+            "title": -1363350747,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409895807,
+            "name": "WINWORD.EXE",
+            "title": 161524952,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608409899851,
+            "name": "WINWORD.EXE",
+            "title": 1464569214,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409901902,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409903945,
+            "name": "WINWORD.EXE",
+            "title": 1464569214,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409916166,
+            "name": "chrome.exe",
+            "title": 1860971100,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409918211,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608409926311,
+            "name": "WINWORD.EXE",
+            "title": 1464569214,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409948668,
+            "name": "WINWORD.EXE",
+            "title": -458587312,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409958789,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608409960829,
+            "name": "WINWORD.EXE",
+            "title": -458587312,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410056527,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608410093082,
+            "name": "WINWORD.EXE",
+            "title": -458587312,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410115557,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410117573,
+            "name": "chrome.exe",
+            "title": -1679396124,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410180606,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410239539,
+            "name": "WINWORD.EXE",
+            "title": -458587312,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410345446,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410353611,
+            "name": "WINWORD.EXE",
+            "title": -458587312,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410355646,
+            "name": "AcroRd32.exe",
+            "title": 820024755,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410359701,
+            "name": "WINWORD.EXE",
+            "title": -458587312,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410361738,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410363814,
+            "name": "chrome.exe",
+            "title": -1305386964,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608410367889,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410374006,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410378094,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410564101,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410568176,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410580421,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410584500,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410613033,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410623189,
+            "name": "chrome.exe",
+            "title": -683405375,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608410625228,
+            "name": "chrome.exe",
+            "title": -1762366231,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608410674132,
+            "name": "chrome.exe",
+            "title": 531506877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410714840,
+            "name": "chrome.exe",
+            "title": -944521234,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410716886,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410725007,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410727023,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410735153,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410751435,
+            "name": "chrome.exe",
+            "title": -953797872,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410755489,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410759537,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410818838,
+            "name": "chrome.exe",
+            "title": -953797872,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410822930,
+            "name": "chrome.exe",
+            "title": 954047320,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410859595,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410867665,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410869674,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410871715,
+            "name": "chrome.exe",
+            "title": -743756794,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608410873718,
+            "name": "chrome.exe",
+            "title": 589152441,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608410922566,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410924612,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410928667,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410942948,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410967339,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608410993946,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411014337,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411570409,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411572440,
+            "name": "chrome.exe",
+            "title": -1208655720,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411574451,
+            "name": "chrome.exe",
+            "title": 954047320,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411592839,
+            "name": "chrome.exe",
+            "title": 117661993,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411594895,
+            "name": "chrome.exe",
+            "title": 954047320,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411601027,
+            "name": "chrome.exe",
+            "title": -1621053262,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411611160,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411996729,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608411998809,
+            "name": "chrome.exe",
+            "title": -683405375,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608412000855,
+            "name": "chrome.exe",
+            "title": 397314799,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608412009004,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412094488,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412106659,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412108688,
+            "name": "chrome.exe",
+            "title": 93483284,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412110734,
+            "name": "chrome.exe",
+            "title": -907329375,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412124939,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412167672,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412179929,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412188082,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412190118,
+            "name": "ShellExperienceHost.exe",
+            "title": 2127128209,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412192153,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412198287,
+            "name": "chrome.exe",
+            "title": -1572889891,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412200326,
+            "name": "chrome.exe",
+            "title": 279612869,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412271705,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412273745,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412275788,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412277829,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412294232,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412300372,
+            "name": "chrome.exe",
+            "title": -1909286170,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412302400,
+            "name": "chrome.exe",
+            "title": 117661993,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412308493,
+            "name": "chrome.exe",
+            "title": 1050044058,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412318754,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412328913,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412330963,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412475904,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412486089,
+            "name": "chrome.exe",
+            "title": -38814164,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412490157,
+            "name": "chrome.exe",
+            "title": -2220389,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412506436,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412508487,
+            "name": "WINWORD.EXE",
+            "title": -1363350747,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412512556,
+            "name": "WINWORD.EXE",
+            "title": 1174182039,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608412514593,
+            "name": "WINWORD.EXE",
+            "title": -1328958433,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412532933,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412536990,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412539028,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412543078,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412593707,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412597750,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412624310,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412626343,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412638599,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412642751,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412644798,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412708212,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412710272,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412712312,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412753187,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412759312,
+            "name": "AcroRd32.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412761365,
+            "name": "AcroRd32.exe",
+            "title": -528298041,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412767486,
+            "name": "WINWORD.EXE",
+            "title": 239393380,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412769509,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412777680,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412779717,
+            "name": "chrome.exe",
+            "title": 370314297,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412785829,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412791901,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412795972,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412986948,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608412991072,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413084785,
+            "name": "chrome.exe",
+            "title": -1333671368,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413092994,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413099149,
+            "name": "chrome.exe",
+            "title": -1333671368,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413109368,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413111425,
+            "name": "chrome.exe",
+            "title": 221728088,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413123619,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413125653,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413131798,
+            "name": "chrome.exe",
+            "title": 427708475,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413139958,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413148142,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413154259,
+            "name": "chrome.exe",
+            "title": 719406267,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413162408,
+            "name": "chrome.exe",
+            "title": 221728088,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413166481,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413170577,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413195088,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413211407,
+            "name": "chrome.exe",
+            "title": 370314297,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413217519,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413221597,
+            "name": "chrome.exe",
+            "title": 370314297,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413237903,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413241935,
+            "name": "chrome.exe",
+            "title": 966197811,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413250105,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413260364,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413264408,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413642832,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413646931,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413677534,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413683648,
+            "name": "AcroRd32.exe",
+            "title": -528298041,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413691809,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413708228,
+            "name": "AcroRd32.exe",
+            "title": -528298041,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413710264,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413732781,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413738963,
+            "name": "chrome.exe",
+            "title": 93483284,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413743027,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413751181,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413753228,
+            "name": "chrome.exe",
+            "title": -1339251381,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413785868,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413787912,
+            "name": "chrome.exe",
+            "title": 518241894,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413902109,
+            "name": "chrome.exe",
+            "title": -1333671368,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413908207,
+            "name": "chrome.exe",
+            "title": -944521234,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413910219,
+            "name": "chrome.exe",
+            "title": -1333671368,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413912255,
+            "name": "chrome.exe",
+            "title": -142498188,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413926563,
+            "name": "chrome.exe",
+            "title": -1333671368,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413928601,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413959309,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413961348,
+            "name": "chrome.exe",
+            "title": -326334292,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608413963384,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414034679,
+            "name": "chrome.exe",
+            "title": 777044620,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414042759,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414044804,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414504189,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414506228,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414508231,
+            "name": "chrome.exe",
+            "title": 825681742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414518431,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414520484,
+            "name": "chrome.exe",
+            "title": 825681742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414553056,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414555084,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414557121,
+            "name": "chrome.exe",
+            "title": -246060753,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414571500,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414579661,
+            "name": "chrome.exe",
+            "title": 652075997,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414602142,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414608259,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608414610359,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416108626,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416112671,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416129110,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416139245,
+            "name": "chrome.exe",
+            "title": 946968087,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416159649,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416171785,
+            "name": "chrome.exe",
+            "title": 1639846724,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416184154,
+            "name": "chrome.exe",
+            "title": -705534376,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416352869,
+            "name": "chrome.exe",
+            "title": 1639846724,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416356919,
+            "name": "chrome.exe",
+            "title": 946968087,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416360966,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416367164,
+            "name": "chrome.exe",
+            "title": 313901514,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416387594,
+            "name": "chrome.exe",
+            "title": -1621358994,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416414054,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416416062,
+            "name": "chrome.exe",
+            "title": -1810941681,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416471437,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416473471,
+            "name": "chrome.exe",
+            "title": 656513122,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416475531,
+            "name": "chrome.exe",
+            "title": 1557104524,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416491887,
+            "name": "chrome.exe",
+            "title": 463862203,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416497950,
+            "name": "chrome.exe",
+            "title": -1810941681,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416499981,
+            "name": "chrome.exe",
+            "title": 946968087,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416541059,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416545145,
+            "name": "chrome.exe",
+            "title": 776568155,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416547176,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416583991,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416586047,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416600427,
+            "name": "chrome.exe",
+            "title": -1191917877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416633487,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416635500,
+            "name": "chrome.exe",
+            "title": -1191917877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416662205,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416828589,
+            "name": "chrome.exe",
+            "title": -695092797,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416906652,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416910740,
+            "name": "chrome.exe",
+            "title": -1191917877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416912838,
+            "name": "chrome.exe",
+            "title": -695092797,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416945618,
+            "name": "chrome.exe",
+            "title": -1191917877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416949771,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608416951802,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417009024,
+            "name": "chrome.exe",
+            "title": 1735360404,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417041692,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417047830,
+            "name": "chrome.exe",
+            "title": -535087767,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417072467,
+            "name": "chrome.exe",
+            "title": 1735360404,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417074530,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417123823,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417125861,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417136156,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417140233,
+            "name": "chrome.exe",
+            "title": -1891400742,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417175269,
+            "name": "chrome.exe",
+            "title": 1050044058,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417187470,
+            "name": "chrome.exe",
+            "title": 73929547,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417197701,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417207883,
+            "name": "chrome.exe",
+            "title": 73929547,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417216156,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417296074,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417361830,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417374133,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417376165,
+            "name": "ShellExperienceHost.exe",
+            "title": -1323068841,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417380291,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417390429,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417466335,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417500934,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417511233,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417517271,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417551726,
+            "name": "chrome.exe",
+            "title": -837094598,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417610574,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417665262,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417673447,
+            "name": "chrome.exe",
+            "title": -225582938,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417677543,
+            "name": "chrome.exe",
+            "title": -1386101059,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417679573,
+            "name": "chrome.exe",
+            "title": 865038930,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417685754,
+            "name": "chrome.exe",
+            "title": -225582938,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417689815,
+            "name": "chrome.exe",
+            "title": -808883914,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417732696,
+            "name": "chrome.exe",
+            "title": 1392833358,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417738847,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417744961,
+            "name": "chrome.exe",
+            "title": -2057663212,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417749030,
+            "name": "chrome.exe",
+            "title": -2021889366,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417826442,
+            "name": "chrome.exe",
+            "title": 1392833358,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417828511,
+            "name": "chrome.exe",
+            "title": -808883914,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417830549,
+            "name": "chrome.exe",
+            "title": -225582938,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417852956,
+            "name": "chrome.exe",
+            "title": -1191917877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417857026,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417897738,
+            "name": "chrome.exe",
+            "title": -246060753,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417903833,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417966918,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417968962,
+            "name": "chrome.exe",
+            "title": -1097523111,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417979093,
+            "name": "chrome.exe",
+            "title": 2096087371,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417981097,
+            "name": "chrome.exe",
+            "title": -1097523111,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417983127,
+            "name": "chrome.exe",
+            "title": 1155398264,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608417985161,
+            "name": "chrome.exe",
+            "title": -237906797,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418029866,
+            "name": "chrome.exe",
+            "title": 1251436306,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608418040038,
+            "name": "chrome.exe",
+            "title": 1534524102,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608418066369,
+            "name": "chrome.exe",
+            "title": -237906797,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418082603,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418084619,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418100821,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418131182,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418133192,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418230772,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418234851,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418479003,
+            "name": "chrome.exe",
+            "title": 73929547,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418493205,
+            "name": "chrome.exe",
+            "title": 1716994989,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418548113,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418550179,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418552221,
+            "name": "chrome.exe",
+            "title": -2064879638,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418554286,
+            "name": "chrome.exe",
+            "title": 811664687,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418578862,
+            "name": "chrome.exe",
+            "title": -1032175788,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418580968,
+            "name": "chrome.exe",
+            "title": 382551862,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418582981,
+            "name": "chrome.exe",
+            "title": 180959562,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418601436,
+            "name": "Receiver.exe",
+            "title": -214335114,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418632255,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418636370,
+            "name": "chrome.exe",
+            "title": -326334292,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418638422,
+            "name": "chrome.exe",
+            "title": 1497873900,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418640450,
+            "name": "chrome.exe",
+            "title": -1250903865,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418650623,
+            "name": "wfica32.exe",
+            "title": -535616554,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608418656790,
+            "name": "wfica32.exe",
+            "title": 660048612,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418660913,
+            "name": "wfica32.exe",
+            "title": 1312908654,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418732673,
+            "name": "wfica32.exe",
+            "title": 407274131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418736807,
+            "name": "wfica32.exe",
+            "title": 1312908654,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418740892,
+            "name": "wfica32.exe",
+            "title": -1874590600,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418742996,
+            "name": "wfica32.exe",
+            "title": 1747693607,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418747190,
+            "name": "wfica32.exe",
+            "title": 1312908654,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418773759,
+            "name": "wfica32.exe",
+            "title": 1747693607,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418843273,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418851480,
+            "name": "wfica32.exe",
+            "title": 1747693607,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418853537,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418857636,
+            "name": "chrome.exe",
+            "title": 233770062,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418859709,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418861775,
+            "name": "ShellExperienceHost.exe",
+            "title": -1689059805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418871983,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418880130,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418956353,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418960492,
+            "name": "chrome.exe",
+            "title": -1762366231,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608418976841,
+            "name": "chrome.exe",
+            "title": -1407237709,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608418978867,
+            "name": "chrome.exe",
+            "title": -1762366231,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608418980931,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608418989102,
+            "name": "chrome.exe",
+            "title": -1250903865,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419005503,
+            "name": "chrome.exe",
+            "title": -326334292,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419007557,
+            "name": "chrome.exe",
+            "title": 1996989181,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419013703,
+            "name": "chrome.exe",
+            "title": 299914536,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419017813,
+            "name": "chrome.exe",
+            "title": -1967182760,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419019917,
+            "name": "chrome.exe",
+            "title": -1250903865,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419021928,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419040376,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419042432,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419044497,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419056696,
+            "name": "chrome.exe",
+            "title": 55709924,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419058760,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419068980,
+            "name": "chrome.exe",
+            "title": -1515143523,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419099797,
+            "name": "chrome.exe",
+            "title": 299914536,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419159128,
+            "name": "chrome.exe",
+            "title": -1967182760,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419163160,
+            "name": "chrome.exe",
+            "title": 96494328,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419169334,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419189752,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419191789,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419314783,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419320930,
+            "name": "chrome.exe",
+            "title": -1599739567,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419325091,
+            "name": "chrome.exe",
+            "title": 775693684,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419335383,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419339457,
+            "name": "chrome.exe",
+            "title": -1250903865,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419341474,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419343517,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419394558,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419398666,
+            "name": "chrome.exe",
+            "title": -2020270478,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419406831,
+            "name": "chrome.exe",
+            "title": -1714570480,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419439350,
+            "name": "chrome.exe",
+            "title": 1557104524,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419443405,
+            "name": "chrome.exe",
+            "title": -418021707,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419457743,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419463828,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419465899,
+            "name": "chrome.exe",
+            "title": -1599739567,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419472001,
+            "name": "chrome.exe",
+            "title": -1270635492,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419498414,
+            "name": "chrome.exe",
+            "title": -1599739567,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419500470,
+            "name": "chrome.exe",
+            "title": 693136976,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419502499,
+            "name": "chrome.exe",
+            "title": 450682609,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419547402,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419594333,
+            "name": "chrome.exe",
+            "title": -1250903865,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419596377,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419598453,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419604635,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419623059,
+            "name": "chrome.exe",
+            "title": 96494328,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419629165,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419631165,
+            "name": "chrome.exe",
+            "title": 479242035,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419633220,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419661973,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419668084,
+            "name": "chrome.exe",
+            "title": 861640261,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419670158,
+            "name": "chrome.exe",
+            "title": 1631609274,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419692618,
+            "name": "chrome.exe",
+            "title": 1255916917,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419725573,
+            "name": "chrome.exe",
+            "title": 861640261,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419727618,
+            "name": "chrome.exe",
+            "title": 1255916917,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419784611,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419786672,
+            "name": "chrome.exe",
+            "title": -326334292,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419788695,
+            "name": "chrome.exe",
+            "title": -273675384,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419792822,
+            "name": "chrome.exe",
+            "title": 861640261,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419794885,
+            "name": "chrome.exe",
+            "title": 1631609274,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419796922,
+            "name": "chrome.exe",
+            "title": 651664257,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419813174,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419825426,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419923732,
+            "name": "chrome.exe",
+            "title": 871621892,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419933933,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419935998,
+            "name": "explorer.exe",
+            "title": -978294581,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419938055,
+            "name": "AcroRd32.exe",
+            "title": 82145407,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419946200,
+            "name": "AcroRd32.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419950324,
+            "name": "chrome.exe",
+            "title": 192562472,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419954375,
+            "name": "AcroRd32.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419956414,
+            "name": "AcroRd32.exe",
+            "title": 82145407,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419958422,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419962467,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608419964502,
+            "name": "WINWORD.EXE",
+            "title": 2702122,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420029683,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420042029,
+            "name": "explorer.exe",
+            "title": -261941377,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420044077,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420070664,
+            "name": "WINWORD.EXE",
+            "title": 2010131260,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420072699,
+            "name": "WINWORD.EXE",
+            "title": 881788999,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420074748,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420113436,
+            "name": "chrome.exe",
+            "title": 1255916917,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420168666,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420229910,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420231938,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420233995,
+            "name": "WINWORD.EXE",
+            "title": -1856516161,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420236027,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420250391,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420256538,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420260640,
+            "name": "AcroRd32.exe",
+            "title": 1988087325,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420264828,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420268908,
+            "name": "chrome.exe",
+            "title": 1255916917,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420270959,
+            "name": "chrome.exe",
+            "title": 26502131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420285246,
+            "name": "chrome.exe",
+            "title": -1325896459,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420289303,
+            "name": "chrome.exe",
+            "title": 651664257,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420295399,
+            "name": "chrome.exe",
+            "title": 1631609274,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420297451,
+            "name": "chrome.exe",
+            "title": 651664257,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420315910,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420324123,
+            "name": "chrome.exe",
+            "title": 651664257,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420328232,
+            "name": "chrome.exe",
+            "title": -1325896459,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420334396,
+            "name": "chrome.exe",
+            "title": 681382504,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420336442,
+            "name": "chrome.exe",
+            "title": -1797299162,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420393529,
+            "name": "chrome.exe",
+            "title": 761163322,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420454402,
+            "name": "chrome.exe",
+            "title": -1230084950,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420590819,
+            "name": "chrome.exe",
+            "title": 894591539,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420592875,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420596958,
+            "name": "chrome.exe",
+            "title": 894591539,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420598988,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420603035,
+            "name": "chrome.exe",
+            "title": 894591539,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420704828,
+            "name": "chrome.exe",
+            "title": 302128906,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420706863,
+            "name": "chrome.exe",
+            "title": -975877136,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420714997,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420725219,
+            "name": "chrome.exe",
+            "title": -273675384,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420727256,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420731371,
+            "name": "chrome.exe",
+            "title": 681382504,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420733418,
+            "name": "chrome.exe",
+            "title": 1255916917,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420786600,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420794738,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420798884,
+            "name": "chrome.exe",
+            "title": 1255916917,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420811123,
+            "name": "explorer.exe",
+            "title": -978294581,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420813175,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420815210,
+            "name": "WINWORD.EXE",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420817259,
+            "name": "WINWORD.EXE",
+            "title": -1363350747,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420819351,
+            "name": "WINWORD.EXE",
+            "title": -1847074246,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420843951,
+            "name": "WINWORD.EXE",
+            "title": -949097783,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420880762,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420882859,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420889100,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420891158,
+            "name": "WINWORD.EXE",
+            "title": -949097783,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420893197,
+            "name": "AcroRd32.exe",
+            "title": -876580628,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420903351,
+            "name": "WINWORD.EXE",
+            "title": -949097783,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420919728,
+            "name": "WINWORD.EXE",
+            "title": -1898218775,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420923802,
+            "name": "WINWORD.EXE",
+            "title": -884014027,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420925836,
+            "name": "AcroRd32.exe",
+            "title": -876580628,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420931932,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420938095,
+            "name": "chrome.exe",
+            "title": -1325896459,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420940122,
+            "name": "chrome.exe",
+            "title": 26502131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420950378,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420958598,
+            "name": "chrome.exe",
+            "title": 26502131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420962728,
+            "name": "chrome.exe",
+            "title": -1325896459,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420968825,
+            "name": "chrome.exe",
+            "title": 437100952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420970857,
+            "name": "chrome.exe",
+            "title": 681382504,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608420979022,
+            "name": "chrome.exe",
+            "title": -1603141716,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421019899,
+            "name": "chrome.exe",
+            "title": -57186788,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421032146,
+            "name": "chrome.exe",
+            "title": -1550713691,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421036211,
+            "name": "chrome.exe",
+            "title": 2464362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421040261,
+            "name": "chrome.exe",
+            "title": -1550713691,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421091113,
+            "name": "chrome.exe",
+            "title": -975877136,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421137814,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421143882,
+            "name": "chrome.exe",
+            "title": -975877136,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421149971,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421152028,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421172477,
+            "name": "chrome.exe",
+            "title": 871621892,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421176550,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421178643,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421182744,
+            "name": "chrome.exe",
+            "title": -937296858,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421184822,
+            "name": "chrome.exe",
+            "title": -947973970,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421186853,
+            "name": "chrome.exe",
+            "title": -410533774,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421188891,
+            "name": "chrome.exe",
+            "title": -1206061258,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421190968,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421197049,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421219473,
+            "name": "explorer.exe",
+            "title": -1073207300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421223562,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421227692,
+            "name": "wfica32.exe",
+            "title": 1747693607,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421231749,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421250245,
+            "name": "wfica32.exe",
+            "title": 1747693607,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421252248,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421254275,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421258325,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421356499,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421399231,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608421403319,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608422963584,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608422965617,
+            "name": "explorer.exe",
+            "title": 594870129,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608425500270,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428381459,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428389743,
+            "name": "explorer.exe",
+            "title": -578997362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428391786,
+            "name": "chrome.exe",
+            "title": 296220824,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428406161,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428408264,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428414312,
+            "name": "chrome.exe",
+            "title": -442781084,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608428426371,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431149107,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431157620,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431159703,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431222531,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431228619,
+            "name": "chrome.exe",
+            "title": -2127232360,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431238770,
+            "name": "chrome.exe",
+            "title": 167670658,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431240800,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431242847,
+            "name": "chrome.exe",
+            "title": 2027917813,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431275674,
+            "name": "chrome.exe",
+            "title": -2127232360,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431277759,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431281841,
+            "name": "chrome.exe",
+            "title": -278094589,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431287997,
+            "name": "chrome.exe",
+            "title": 320102376,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431290057,
+            "name": "chrome.exe",
+            "title": -278094589,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431298201,
+            "name": "chrome.exe",
+            "title": 320102376,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431316647,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431335060,
+            "name": "chrome.exe",
+            "title": -535087767,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431550273,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431595401,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431605669,
+            "name": "chrome.exe",
+            "title": 1743230800,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431648651,
+            "name": "chrome.exe",
+            "title": -400125465,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431724131,
+            "name": "chrome.exe",
+            "title": 1743230800,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431730247,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431734354,
+            "name": "chrome.exe",
+            "title": 1743230800,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431736355,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431738367,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431740413,
+            "name": "chrome.exe",
+            "title": 940448717,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431744523,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431746525,
+            "name": "chrome.exe",
+            "title": 1743230800,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431756578,
+            "name": "chrome.exe",
+            "title": 79335486,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431889175,
+            "name": "chrome.exe",
+            "title": 793991992,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608431979032,
+            "name": "chrome.exe",
+            "title": -400125465,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432269044,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432273101,
+            "name": "chrome.exe",
+            "title": -1392641211,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432307754,
+            "name": "chrome.exe",
+            "title": -400125465,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432403672,
+            "name": "chrome.exe",
+            "title": 79335486,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432405680,
+            "name": "chrome.exe",
+            "title": 180959562,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432409705,
+            "name": "chrome.exe",
+            "title": -1191917877,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432411752,
+            "name": "chrome.exe",
+            "title": -535087767,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432413809,
+            "name": "chrome.exe",
+            "title": 444103951,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432415841,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432790865,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432792868,
+            "name": "chrome.exe",
+            "title": -1141850477,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432819003,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432821039,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432825120,
+            "name": "chrome.exe",
+            "title": -75754560,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432831229,
+            "name": "chrome.exe",
+            "title": -1141850477,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432944260,
+            "name": "chrome.exe",
+            "title": 1248029393,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432950363,
+            "name": "chrome.exe",
+            "title": 1883066428,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432966677,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432968690,
+            "name": "chrome.exe",
+            "title": -1714512559,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432974728,
+            "name": "chrome.exe",
+            "title": -2081616463,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432976765,
+            "name": "chrome.exe",
+            "title": -1330213898,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432978800,
+            "name": "chrome.exe",
+            "title": -2081616463,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608432990859,
+            "name": "chrome.exe",
+            "title": -1330213898,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433000958,
+            "name": "chrome.exe",
+            "title": -900038531,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433002996,
+            "name": "chrome.exe",
+            "title": -1330213898,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433037215,
+            "name": "chrome.exe",
+            "title": 1883066428,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433039240,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433041302,
+            "name": "chrome.exe",
+            "title": -75754560,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433233211,
+            "name": "chrome.exe",
+            "title": 855885527,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433235243,
+            "name": "chrome.exe",
+            "title": -1531963388,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433239330,
+            "name": "chrome.exe",
+            "title": 86715512,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433280023,
+            "name": "chrome.exe",
+            "title": -163844846,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433288156,
+            "name": "chrome.exe",
+            "title": -1691150173,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433306467,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433308476,
+            "name": "chrome.exe",
+            "title": 1223883952,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433330556,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433383574,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433387641,
+            "name": "chrome.exe",
+            "title": 1429521513,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433389687,
+            "name": "chrome.exe",
+            "title": -831525371,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433397830,
+            "name": "chrome.exe",
+            "title": -772176350,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433401915,
+            "name": "chrome.exe",
+            "title": -831525371,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433436558,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433499835,
+            "name": "chrome.exe",
+            "title": -831525371,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433512167,
+            "name": "chrome.exe",
+            "title": -342878242,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433518273,
+            "name": "chrome.exe",
+            "title": 1565396494,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433522373,
+            "name": "chrome.exe",
+            "title": 959923587,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433530628,
+            "name": "chrome.exe",
+            "title": 1565396494,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433540822,
+            "name": "chrome.exe",
+            "title": -342878242,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433546931,
+            "name": "chrome.exe",
+            "title": -2135952290,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433559126,
+            "name": "chrome.exe",
+            "title": 780740115,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433561127,
+            "name": "chrome.exe",
+            "title": 317484733,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433563133,
+            "name": "chrome.exe",
+            "title": 959923587,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433581419,
+            "name": "chrome.exe",
+            "title": 317484733,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433585437,
+            "name": "chrome.exe",
+            "title": 1815156994,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433587480,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433589482,
+            "name": "chrome.exe",
+            "title": 1815156994,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433847892,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433854010,
+            "name": "chrome.exe",
+            "title": 1815156994,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433960419,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608433962470,
+            "name": "chrome.exe",
+            "title": 1815156994,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434038262,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434040293,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434042321,
+            "name": "chrome.exe",
+            "title": 1291012544,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608434070903,
+            "name": "chrome.exe",
+            "title": -1792158150,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434072907,
+            "name": "chrome.exe",
+            "title": -1111843883,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434081043,
+            "name": "chrome.exe",
+            "title": -1615961486,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434085064,
+            "name": "chrome.exe",
+            "title": -1111843883,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434089122,
+            "name": "chrome.exe",
+            "title": -1615961486,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434101186,
+            "name": "chrome.exe",
+            "title": 1276976938,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434117428,
+            "name": "chrome.exe",
+            "title": -1700921332,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434127486,
+            "name": "chrome.exe",
+            "title": -1111843883,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434131500,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434135582,
+            "name": "chrome.exe",
+            "title": 1065866930,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434141609,
+            "name": "chrome.exe",
+            "title": 1291012544,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608434147726,
+            "name": "chrome.exe",
+            "title": -1111843883,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434149727,
+            "name": "chrome.exe",
+            "title": -655815726,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434151766,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434153782,
+            "name": "chrome.exe",
+            "title": -800763026,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434318909,
+            "name": "chrome.exe",
+            "title": 132085594,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434320918,
+            "name": "chrome.exe",
+            "title": 1151874418,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608434324997,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434331030,
+            "name": "chrome.exe",
+            "title": -1671129809,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608434337142,
+            "name": "chrome.exe",
+            "title": 179459230,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434399653,
+            "name": "chrome.exe",
+            "title": 1815156994,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434403730,
+            "name": "chrome.exe",
+            "title": 317484733,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434405744,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434407769,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608434409808,
+            "name": "chrome.exe",
+            "title": 1151874418,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608434411843,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437041939,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437048037,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437056326,
+            "name": "chrome.exe",
+            "title": 1733639131,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437058351,
+            "name": "chrome.exe",
+            "title": 1195613501,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437062602,
+            "name": "chrome.exe",
+            "title": 964469116,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437068635,
+            "name": "chrome.exe",
+            "title": 1697853085,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437076837,
+            "name": "chrome.exe",
+            "title": 195299101,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437078844,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437082880,
+            "name": "chrome.exe",
+            "title": 401272729,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437084897,
+            "name": "chrome.exe",
+            "title": -1209339938,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437086930,
+            "name": "chrome.exe",
+            "title": 401272729,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437088939,
+            "name": "chrome.exe",
+            "title": 758941935,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437099072,
+            "name": "chrome.exe",
+            "title": -1566331277,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437101081,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437109167,
+            "name": "chrome.exe",
+            "title": 242469279,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437111173,
+            "name": "chrome.exe",
+            "title": 811664687,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437125321,
+            "name": "chrome.exe",
+            "title": -610802886,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437127324,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437166517,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437168518,
+            "name": "chrome.exe",
+            "title": -1796234526,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437172657,
+            "name": "chrome.exe",
+            "title": 1968067570,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437210819,
+            "name": "chrome.exe",
+            "title": 1952643302,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437212875,
+            "name": "chrome.exe",
+            "title": -342555023,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437221028,
+            "name": "chrome.exe",
+            "title": 1968067570,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437223039,
+            "name": "chrome.exe",
+            "title": -1796234526,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437229155,
+            "name": "chrome.exe",
+            "title": -1070196331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437231156,
+            "name": "chrome.exe",
+            "title": 126669798,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437233194,
+            "name": "chrome.exe",
+            "title": 371026391,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437251278,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437263601,
+            "name": "SearchApp.exe",
+            "title": -1822469688,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437265622,
+            "name": "ApplicationFrameHost.exe",
+            "title": 854935330,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437269836,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437291919,
+            "name": "chrome.exe",
+            "title": 371026391,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437296061,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437302080,
+            "name": "chrome.exe",
+            "title": 371026391,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437304105,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437312258,
+            "name": "chrome.exe",
+            "title": 371026391,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437328679,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437396627,
+            "name": "chrome.exe",
+            "title": 195299101,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437398661,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437458446,
+            "name": "chrome.exe",
+            "title": 195299101,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437460490,
+            "name": "chrome.exe",
+            "title": -606846802,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437480620,
+            "name": "chrome.exe",
+            "title": 758941935,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437484759,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437488775,
+            "name": "ApplicationFrameHost.exe",
+            "title": 854935330,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437490862,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608437492863,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608476246356,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608476258639,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608476262660,
+            "name": "chrome.exe",
+            "title": -2054799583,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608476266734,
+            "name": "chrome.exe",
+            "title": -1501196256,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608476268857,
+            "name": "ApplicationFrameHost.exe",
+            "title": 1499275331,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608476274886,
+            "name": "chrome.exe",
+            "title": -140763699,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608477392070,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608477398190,
+            "name": "chrome.exe",
+            "title": -763054230,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608477404298,
+            "name": "chrome.exe",
+            "title": -140763699,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608480247236,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608480251247,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496189121,
+            "name": "explorer.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496191258,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496195397,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496199460,
+            "name": "chrome.exe",
+            "title": 1351580787,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496205594,
+            "name": "chrome.exe",
+            "title": 172362534,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496207595,
+            "name": "chrome.exe",
+            "title": 1550101561,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496225865,
+            "name": "chrome.exe",
+            "title": 1697122594,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496231887,
+            "name": "chrome.exe",
+            "title": -2045584677,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608496239999,
+            "name": "chrome.exe",
+            "title": -1214887300,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608497033810,
+            "name": "chrome.exe",
+            "title": -512876505,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608497037827,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608497242844,
+            "name": "chrome.exe",
+            "title": -512876505,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608497253026,
+            "name": "chrome.exe",
+            "title": -601588,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608497755001,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608498043011,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608504502126,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608504510268,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608504530578,
+            "name": "chrome.exe",
+            "title": 335692208,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608504699259,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608504705291,
+            "name": "chrome.exe",
+            "title": 46153547,
+            "isDistraction": true
+        },
+        {
+            "timestamp": 1608504721569,
+            "name": "chrome.exe",
+            "title": 335692208,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608507219864,
+            "name": "explorer.exe",
+            "title": 594870129,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608507392079,
+            "name": "chrome.exe",
+            "title": 335692208,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608507406161,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608507408201,
+            "name": "chrome.exe",
+            "title": 335692208,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608508801800,
+            "name": "chrome.exe",
+            "title": -1412690698,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608508892934,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608521250041,
+            "name": "chrome.exe",
+            "title": 1974059329,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608521252149,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608521258248,
+            "name": "chrome.exe",
+            "title": 906873389,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608521262269,
+            "name": "chrome.exe",
+            "title": -861146664,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608521268440,
+            "name": "chrome.exe",
+            "title": 1338102038,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608521270477,
+            "name": "chrome.exe",
+            "title": 829465969,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608522474717,
+            "name": "explorer.exe",
+            "title": 594870129,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608522482747,
+            "name": "chrome.exe",
+            "title": 829465969,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763524112,
+            "name": "LockApp.exe",
+            "title": 188532805,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763538923,
+            "name": "explorer.exe",
+            "title": -578997362,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763542969,
+            "name": "chrome.exe",
+            "title": 829465969,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763547134,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763551295,
+            "name": "chrome.exe",
+            "title": 756785803,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763553298,
+            "name": "chrome.exe",
+            "title": 427708475,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763555435,
+            "name": "chrome.exe",
+            "title": 2133260327,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763573488,
+            "name": "chrome.exe",
+            "title": -808853012,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763581606,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763583611,
+            "name": "exman.exe",
+            "title": 96958407,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763585650,
+            "name": "exman.exe",
+            "title": 2089680852,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763587656,
+            "name": "chrome.exe",
+            "title": -808853012,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763595772,
+            "name": "exman.exe",
+            "title": 2089680852,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763597797,
+            "name": "exman.exe",
+            "title": -1868589170,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763603815,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763605829,
+            "name": "OpenWith.exe",
+            "title": 0,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763622121,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763624142,
+            "name": "chrome.exe",
+            "title": -808853012,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763626203,
+            "name": "chrome.exe",
+            "title": -2117808573,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763636413,
+            "name": "chrome.exe",
+            "title": -808853012,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763650744,
+            "name": "exman.exe",
+            "title": 67374983,
+            "isDistraction": false
+        },
+        {
+            "timestamp": 1608763662897,
+            "name": "exman.exe",
+            "title": 2089680852,
+            "isDistraction": false
+        }
+    ],
+    "appUsage": [
+        [
+            1607386275171
+        ],
+        [
+            1607486424492
+        ],
+        [
+            1608143030191,
+            1608351063621
+        ],
+        [
+            1608353158875
+        ]
+    ],
+    "settings": {
+        "autoReply": "Currently, I am working in focus mode. I will answer you earliest in ${time}.",
+        "shortFocusDuration": 15,
+        "mediumFocusDuration": 25,
+        "longFocusDuration": 40,
+        "focusGoalDuration": 120,
+        "teamsCallFocusAbility": false,
+        "minimumGoalsPerDay": 5,
+        "appVersion": "pomodoro",
+        "distractingApps": [
+            "netflix",
+            "teams",
+            "slack",
+            "skype",
+            "youtube",
+            "facebook",
+            "twitter",
+            "pinterest",
+            "tumblr",
+            "instagram",
+            "flickr",
+            "meetup",
+            "ask.fm",
+            "hulu",
+            "imgur",
+            "vimeo",
+            "ted",
+            "blogger",
+            "imdb",
+            "deviantart",
+            "break",
+            "collegehumor",
+            "funnyordie",
+            "liveleak",
+            "twitch.tv",
+            "theonion",
+            "cracked",
+            "tmz",
+            "vice",
+            "rottentomatoes",
+            "ebay",
+            "craigslist",
+            "etsy",
+            "ricardo",
+            "tutti",
+            "bbc",
+            "forbes",
+            "economist",
+            "nbcnews",
+            "cnn",
+            "foxnews",
+            "msnbc",
+            "huffingtonpost",
+            "businessinsider",
+            "buzzfeed",
+            "yahoo",
+            "nytimes",
+            "bloomberg",
+            "usatoday",
+            "washingtonpost",
+            "theguardian",
+            "npr.org",
+            "wsj",
+            "news.google",
+            "cnet",
+            "cnbc",
+            "reddit",
+            "nzz",
+            "zalando",
+            "whatsapp",
+            "microsoft teams",
+            "telegram",
+            "20min",
+            "blick",
+            "amazon",
+            "aboutyou",
+            "asos",
+            "na-kd",
+            "tiktok"
+        ]
+    }
+}
